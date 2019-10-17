@@ -11,6 +11,10 @@ layout: home
                   <br>{{ site.data.pages.index.top_subtitle }}
                 </p>
                 <a class="btn btn-filled btn-lg mb0" href="#">{{ site.data.pages.index.top_cta }}</a>
+
+                <pre>
+                {{ site.data.pages.index | inspect }}
+                </pre>
             </div>
         </div>
     </div>
@@ -20,14 +24,14 @@ layout: home
     <div class="container">
         <div class="row v-align-children">
             <div class="col-md-7 col-sm-6 text-center mb-xs-24">
-                <img class="cast-shadow" alt="Screenshot" src="/img/test - sf.jpg">
+                <img class="cast-shadow" alt="{{ site.data.pages.index.feature_image_alt }}" src="">
             </div>
             <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">
-                <h3>Build a slick, modern site faster than ever</h3>
+                <h3>{{ site.data.pages.index.feature_title }}</h3>
                 <p>
-                    Foundry is your complete design toolkit, built from the ground up to be flexible, extensible and stylish. Building slick, contemporary sites has never been this easy!
+                  {{ site.data.pages.index.feature_text }}
                 </p>
-                <a class="btn-filled btn" href="#">Explore Foundry</a>
+                <a class="btn-filled btn" href="#">{{ site.data.pages.index.feature_cta }}</a>
             </div>
         </div>
 
