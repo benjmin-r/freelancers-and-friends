@@ -21,17 +21,13 @@ collections: # A list of collections the CMS should be able to edit
 
   - label: "Pages"
     name: "pages"
+    editor:
+      preview: true
     files:
-      - label: "Home Page"
+      - label: "Home"
         name: "index"
-        file: "site/content/index.yml"
+        file: "_data/pages/index.yml"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
+          - { label: Top Title, name: top_title, widget: string }
+          - { label: Top Subtitle, name: top_subtitle, widget: string }
+          - { label: Top CTA, name: top_cta, widget: string }
