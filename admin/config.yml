@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: git-gateway
   branch: master # Branch to update (master by default)
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
@@ -19,8 +19,28 @@ collections: # A list of collections the CMS should be able to edit
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
 
+  - label: "Pages"
+    name: "pages"
+    editor:
+      preview: true
+    files:
+      - label: "Home"
+        name: "index"
+        file: "_data/pages/index.yml"
+        fields:
+          - { label: "Top Title", name: "top_title", widget: "string" }
+          - { label: "Top Subtitle", name: "top_subtitle", widget: "string" }
+          - { label: "Top CTA", name: "top_cta", widget: "string" }
+          - { label: "Featured Image", name: "feature_image", widget: "image" }
+          - { label: "Featured Image Alt-text", name: "feature_image_alt", widget: "string" }
+          - { label: "Featured Title", name: "feature_title", widget: "string" }
+          - { label: "Featured Text", name: "feature_text", widget: "string" }
+          - { label: "Featured CTA", name: "feature_cta", widget: "string" }
+
   - label: "Sitewide Options"
     name: "options"
+    editor:
+      preview: false
     files:
       - label: "Top Navigation"
         name: navigation
@@ -40,21 +60,3 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Display Text", name: "display_text" , widget: "string", required: true }
               - { label: URL, name: "url", widget: "string", required: true }
-
-  - label: "Pages"
-    name: "pages"
-    editor:
-      preview: true
-    files:
-      - label: "Home"
-        name: "index"
-        file: "_data/pages/index.yml"
-        fields:
-          - { label: "Top Title", name: "top_title", widget: "string" }
-          - { label: "Top Subtitle", name: "top_subtitle", widget: "string" }
-          - { label: "Top CTA", name: "top_cta", widget: "string" }
-          - { label: "Featured Image", name: "feature_image", widget: "image" }
-          - { label: "Featured Image Alt-text", name: "feature_image_alt", widget: "string" }
-          - { label: "Featured Title", name: "feature_title", widget: "string" }
-          - { label: "Featured Text", name: "feature_text", widget: "string" }
-          - { label: "Featured CTA", name: "feature_cta", widget: "string" }
