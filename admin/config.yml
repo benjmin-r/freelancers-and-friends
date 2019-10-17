@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: test-repo
   branch: master # Branch to update (master by default)
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
@@ -19,6 +19,28 @@ collections: # A list of collections the CMS should be able to edit
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
 
+  - label: "Sitewide Options"
+    name: "options"
+    files:
+      - label: "Top Navigation"
+        name: navigation
+        file: "_data/top_navigation.yml"
+        fields:
+          - label: "Right-side Navigation"
+            label_singular: "Nav Item"
+            name: right_nav
+            widget: list
+            fields:
+              - { label: "Display Text", name: "display_text" , widget: "string", required: true }
+              - { label: URL, name: "url", widget: "string", required: true }
+          - label: "Left-side Navigation"
+            label_singular: "Nav Item"
+            name: left_nav
+            widget: list
+            fields:
+              - { label: "Display Text", name: "display_text" , widget: "string", required: true }
+              - { label: URL, name: "url", widget: "string", required: true }
+
   - label: "Pages"
     name: "pages"
     editor:
@@ -36,25 +58,3 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Featured Title", name: "feature_title", widget: "string" }
           - { label: "Featured Text", name: "feature_text", widget: "string" }
           - { label: "Featured CTA", name: "feature_cta", widget: "string" }
-      - label: "Top Right Navigation"
-        name: right_nav
-        file: "_data/right_nav.yml"
-        fields:
-          - label: "Navigation"
-            label_singular: "Nav Item"
-            name: topLevelItems
-            widget: list
-            fields:
-              - { label: "Display Text", name: "display_text" , widget: "string", required: true }
-              - { label: URL, name: "url", widget: "string", required: true }
-      - label: "Top Left Navigation"
-        name: left_nav
-        file: "_data/left_nav.yml"
-        fields:
-          - label: "Navigation"
-            label_singular: "Nav Item"
-            name: topLevelItems
-            widget: list
-            fields:
-              - { label: "Display Text", name: "display_text" , widget: "string", required: true }
-              - { label: URL, name: "url", widget: "string", required: true }

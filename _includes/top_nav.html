@@ -9,7 +9,7 @@
 
             <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
                 <ul class="menu inline-block pull-right">
-                  {% for item in site.data.left_nav %}
+                  {% for item in site.data.top_navigation.left_nav %}
                     <li>
                         <a href="{{ item.url }}">{{ item.display_text }}</a>
                     </li>
@@ -19,7 +19,7 @@
 
             <div class="col-sm-12 col-md-5 pb-xs-24">
                 <ul class="menu">
-                  {% for item in site.data.right_nav %}
+                  {% for item in site.data.top_navigation.right_nav %}
                     <li>
                         <a href="{{ item.url }}">{{ item.display_text }}</a>
                     </li>
