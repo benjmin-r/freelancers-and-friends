@@ -49,10 +49,13 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Top Title", name: "top_title", widget: "string" }
           - { label: "Lead", name: "lead", widget: "markdown" }
-          - label: "Slider"
+          - label: "Slider Images"
+            label_singular: "Image"
             name: "slider_images"
             widget: "list"
-            field: { label: "Image", name: "image", widget: "image"}
+            fields:
+              - { label: "Image", name: "image", widget: "image"}
+              - { label: "Alt text", name: "image_alt", widget: "string"}
           - label: "Meta: Footer Color"
             name: "meta_footercolor"
             widget: "select"

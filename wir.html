@@ -5,12 +5,8 @@ layout: home
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h4 class="uppercase mb16">SILVIA RAK, SARAH STEFFEN UND JEDE MENGE IDEEN</h4>
-                <p class="lead mb64">
-
-                    Story und Ausblick. Wir wollen unser Netzwerk und unseren Horizont erweitern.&nbsp;Sarah Steffen und Silvia Rak laden daher regelmäßig alle Freelancer und ihre Freunde zum Frühstück ein.&nbsp;Serviert werden: Frische Brötchen zum Selbstkostenpreis und unbezahlbare Erlebnisse.&nbsp;Du willst beim nächsten Mal dabei sein?    Trag Dich in unseren Verteiler ein.&nbsp;<br><br>
-
-                </p>
+                <h4 class="uppercase mb16">{{ site.data.pages.wir.top_title }}</h4>
+                <p class="lead mb64"> {{ site.data.pages.wir.lead }} </p>
             </div>
         </div>
 
@@ -18,9 +14,9 @@ layout: home
             <div class="col-sm-12">
                 <div class="image-slider slider-all-controls controls-inside">
                     <ul class="slides">
-                        <li> <img alt="Image" src="img/test - fr2.jpg"> </li>
-                        <li> <img alt="Image" src="img/test-fr.jpg"> </li>
-                        <li> <img alt="Image" src="img/test-breakfast.jpg"> </li>
+                        {% for item in site.data.wir.slider_images %}
+                            <li> <img alt="{{ item.image_alt }}" src="{{ item.image }}"> </li>
+                        {% endfor %}
                     </ul>
                 </div>
             </div>
