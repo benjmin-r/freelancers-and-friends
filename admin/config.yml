@@ -46,16 +46,16 @@ collections: # A list of collections the CMS should be able to edit
         name: navigation
         file: "_data/top_navigation.yml"
         fields:
-          - label: "Right-side Navigation"
+          - label: "Left-side Navigation"
             label_singular: "Nav Item"
-            name: right_nav
+            name: left_nav
             widget: list
             fields:
               - { label: "Display Text", name: "display_text" , widget: "string", required: true }
               - { label: URL, name: "url", widget: "string", required: true }
-          - label: "Left-side Navigation"
+          - label: "Right-side Navigation"
             label_singular: "Nav Item"
-            name: left_nav
+            name: right_nav
             widget: list
             fields:
               - { label: "Display Text", name: "display_text" , widget: "string", required: true }
