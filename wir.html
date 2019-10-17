@@ -14,8 +14,8 @@ layout: home
             <div class="col-sm-12">
                 <div class="image-slider slider-all-controls controls-inside">
                     <ul class="slides">
-                        {% for item in site.data.wir.slider_images %}
-                            <li> <img alt="{{ item.image_alt }}" src="{{ item.image }}"> </li>
+                        {% for item in site.data.pages.wir.slider_images %}
+                            <li> <img alt="{{ item.image_alt | xml_escape }}" src="{{ item.image }}"> </li>
                         {% endfor %}
                     </ul>
                 </div>
