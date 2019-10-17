@@ -14,55 +14,10 @@
     <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-    <div class="nav-container">
-        <nav>
-            <div class="nav-bar text-center">
-                <div class="col-md-2 col-md-push-5 col-sm-12 text-center">
-                    <a href="#">
-                        <div class="vnu"><img alt="logo" class="image-xxs" src="/img/f_f_twitter.gif"></div>
-                    </a>
-                </div>
-
-                <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
-                    <ul class="menu inline-block pull-right">
-                        <li><a href="#">HOME<br></a></li>
-                        <li><a href="#">WIR</a>
-                            <ul>
-                                <li><a href="#">Single</a></li>
-                            </ul>
-                        </li><li class="vpf"><a href="#" class="inner-link" target="_self">EVENTS &amp; PROJEKTE<br></a>
-                            <ul>
-                                <li><a href="#">Single</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-sm-12 col-md-5 pb-xs-24">
-                    <ul class="menu">
-                        <li><a href="#">BLOG</a></li>
-                        <li class="toggle-sub"><a href="#">NEWSLETTER</a>
-                            <ul>
-                                <li><a href="#">Single</a></li>
-                            </ul>
-                        </li><li class="toggle-sub vpf"><a href="#">KONTAKT<br></a>
-                            <ul>
-                                <li><a href="#">Single</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="module widget-handle mobile-toggle right visible-sm visible-xs absolute-xs">
-                <i class="ti-menu"></i>
-            </div>
-        </nav>
-    </div>
+    {% include top_nav.html %}
 
     <div class="main-container">
       {{ content }}
-
       {% include footer.html %}
     </div>
 

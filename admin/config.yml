@@ -36,3 +36,25 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Featured Title", name: "feature_title", widget: "string" }
           - { label: "Featured Text", name: "feature_text", widget: "string" }
           - { label: "Featured CTA", name: "feature_cta", widget: "string" }
+      - label: "Top Right Navigation"
+        name: right_nav
+        file: "_data/right_nav.yml"
+        fields:
+          - label: "Navigation"
+            label_singular: "Nav Item"
+            name: topLevelItems
+            widget: list
+            fields:
+              - { label: "Display Text", name: "display_text" , widget: "string", required: true }
+              - { label: URL, name: "url", widget: "string", required: true }
+      - label: "Top Left Navigation"
+        name: left_nav
+        file: "_data/left_nav.yml"
+        fields:
+          - label: "Navigation"
+            label_singular: "Nav Item"
+            name: topLevelItems
+            widget: list
+            fields:
+              - { label: "Display Text", name: "display_text" , widget: "string", required: true }
+              - { label: URL, name: "url", widget: "string", required: true }
