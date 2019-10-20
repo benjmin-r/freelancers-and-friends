@@ -1,1 +1,14 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
+.bg-primary .btn {
+  color: #252725;
+  border-color: #fff;
+  background: #fff;
+}
+.bg-primary .btn:hover {
+  background: #fff;
+  color: #252725;
+}
+
+input[type="submit"], button[type="submit"] {
+  font-size: 12px;
+}
