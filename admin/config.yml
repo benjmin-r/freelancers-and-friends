@@ -63,6 +63,18 @@ collections: # A list of collections the CMS should be able to edit
             options:
               - { label: "Green", value: "primary" }
               - { label: "White", value: "white" }
+      - label: "Impressum"
+        name: "impressum"
+        file: "_data/pages/impressum.yml"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - label: "Datenschutz"
+        name: "datenschutz"
+        file: "_data/pages/datenschutz.yml"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
 
   - label: "Sitewide Options"
     name: "options"
