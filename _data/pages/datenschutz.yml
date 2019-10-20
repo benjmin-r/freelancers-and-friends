@@ -281,3 +281,18 @@ content: >-
   MailChimp unter:
 
   <https://mailchimp.com/legal/terms/>
+
+
+  ## Netlify
+
+
+  Die Website freelancers-and-friends.de wird von der Netlify Plattform hosted.
+  Netlify zeichnet in seinen Zugriffsstatistiken die IP Adresse jeder einzelnen
+  Anfrage an freelancers-and-friends.de, für eine Dauer von weniger als 30
+  Tagen, auf. Dies bedeutet, dass für jeden Abruf einer Seite von
+  freelancers-and-friends.de mindestens ein Eintrag Ihrer IP Adresse in den
+  Zugriffsstatistiken von Netlify erfolgt.
+
+
+  Mehr Informationen hierzu finden sich in [Netlify’s
+  Datenschutzbestimmungen](https://www.netlify.com/gdpr/).
