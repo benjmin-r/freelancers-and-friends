@@ -288,7 +288,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1,
 h2,
@@ -401,7 +401,7 @@ h6.uppercase,
   font-weight: 700;
 }
 .bold-h6 {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -467,7 +467,7 @@ a:hover {
   text-decoration: none;
 }
 .label {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -724,7 +724,7 @@ footer.bg-dark li,
 }
 /*!---------- 6. BUTTONS ----------*/
 .btn {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   border: 2px solid #499434;
   padding: 0 26px;
   height: 40px;
@@ -946,7 +946,7 @@ nav.bg-dark .logo-dark {
 .menu {
   width: 100%;
   height: 55px;
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .menu.inline-block {
   width: auto;
@@ -1130,7 +1130,7 @@ nav.nav-centered .module.widget-handle {
   visibility: visible;
 }
 .module.widget-handle .title {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
   font-size: 11px;
@@ -1690,7 +1690,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 input[type="text"],
 button,
@@ -1713,7 +1713,7 @@ input[type="password"] {
   outline: 1px red !important;
 }
 .input-with-label span {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 11px;
   text-transform: uppercase;
   color: #292929;
@@ -2144,7 +2144,7 @@ button[type="submit"] .form-loading {
   background: #e4e4e4;
 }
 .accordion-1 .title span {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2347,7 +2347,7 @@ button[type="submit"] .form-loading {
   position: relative;
 }
 .text-tabs .tab-title span {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2426,7 +2426,7 @@ button[type="submit"] .form-loading {
   margin-bottom: 16px;
 }
 .icon-tabs .tab-title span {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2475,7 +2475,7 @@ button[type="submit"] .form-loading {
   border-radius: 0;
 }
 .progress-1 .progress-bar span {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2491,7 +2491,7 @@ button[type="submit"] .form-loading {
   margin-bottom: 8px;
 }
 .progress-2 span {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2533,7 +2533,7 @@ button[type="submit"] .form-loading {
 }
 .breadcrumb-2 li a,
 .breadcrumb-2 li {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2912,7 +2912,7 @@ button[type="submit"] .form-loading {
   margin-bottom: 0;
 }
 .widget .title {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -4546,7 +4546,7 @@ video {
   float: left;
   margin-right: 32px;
   cursor: pointer;
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   border: 2px solid #499434;
   padding: 0 26px;
   height: 40px;
@@ -4708,7 +4708,7 @@ section + .portfolio-pullup {
 .countdown {
   font-size: 80px;
   line-height: 88px;
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 56px;
   line-height: 64px;
   font-weight: 100;
@@ -4785,7 +4785,7 @@ section + .portfolio-pullup {
   }
 }
 .tweets-slider.large p {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
   line-height: 32px;
 }
