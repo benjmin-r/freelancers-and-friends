@@ -7,14 +7,14 @@ title: Frühstück
     <div class="container">
         <div class="row v-align-children">
             <div class="col-md-7 col-sm-6 text-center mb-xs-24">
-                <img class="cast-shadow" alt="Screenshot" src="img/test-f5.jpg">
+              <img class="cast-shadow" alt="{{ site.data.pages.fruehstueck.top_image_alt | xml_escape }}" src="{{ site.data.pages.fruehstueck.top_image }}">
             </div>
             <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">
                 <h3>{{ site.data.pages.fruehstueck.top_title }}</h3>
                 <p>
                     {{ site.data.pages.fruehstueck.top_lead | markdownify }}
                 </p>
-                <a class="btn-filled btn" href="{ site.data.pages.fruehstueck.top_cta_url }}">
+                <a class="btn-filled btn" href="{{ site.data.pages.fruehstueck.top_cta_url }}">
                     {{ site.data.pages.fruehstueck.top_cta }}
                 </a>
             </div>

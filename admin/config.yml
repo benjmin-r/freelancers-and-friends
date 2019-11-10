@@ -82,6 +82,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "fruehstueck"
         file: "_data/pages/fruehstueck.yml"
         fields:
+          - { label: "Top Image", name: "top_image", widget: "image"}
+          - { label: "Top Image Alt text", name: "top_image_alt", widget: "string"}
           - { label: "Top Title", name: "top_title", widget: "string" }
           - { label: "Top Lead", name: "top_lead", widget: "markdown" }
           - { label: "Top CTA", name: "top_cta", widget: "string" }
