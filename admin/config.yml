@@ -71,6 +71,13 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Top Title", name: "top_title", widget: "string" }
           - { label: "Lead", name: "lead", widget: "markdown" }
+          - label: "Meta: Footer Color"
+            name: "meta_footercolor"
+            widget: "select"
+            default: ["primary"]
+            options:
+              - { label: "Green", value: "primary" }
+              - { label: "White", value: "white" }
       - label: "Impressum"
         name: "impressum"
         file: "_data/pages/impressum.yml"
