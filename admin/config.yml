@@ -65,6 +65,12 @@ collections: # A list of collections the CMS should be able to edit
             options:
               - { label: "Green", value: "primary" }
               - { label: "White", value: "white" }
+      - label: "Newsletter"
+        name: "newsletter"
+        file: "_data/pages/newsletter.yml"
+        fields:
+          - { label: "Top Title", name: "top_title", widget: "string" }
+          - { label: "Lead", name: "lead", widget: "markdown" }
       - label: "Impressum"
         name: "impressum"
         file: "_data/pages/impressum.yml"
