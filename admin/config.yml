@@ -31,11 +31,13 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Top Title", name: "top_title", widget: "string" }
           - { label: "Top Subtitle", name: "top_subtitle", widget: "string" }
           - { label: "Top CTA", name: "top_cta", widget: "string" }
+          - { label: "Top CTA URL", name: "top_cta_url", widget: "string" }
           - { label: "Featured Image", name: "feature_image", widget: "image" }
           - { label: "Featured Image Alt-text", name: "feature_image_alt", widget: "string" }
           - { label: "Featured Title", name: "feature_title", widget: "string" }
           - { label: "Featured Text", name: "feature_text", widget: "string" }
           - { label: "Featured CTA", name: "feature_cta", widget: "string" }
+          - { label: "Featured CTA URL", name: "feature_cta_url", widget: "string" }
           - label: "Meta: Footer Color"
             name: "meta_footercolor"
             widget: "select"
