@@ -114,3 +114,10 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Display Text", name: "display_text" , widget: "string", required: true }
               - { label: URL, name: "url", widget: "string", required: true }
+              - {
+                  label: "nested navigation",
+                  label_singular: "Nested Nav Item",
+                  name: nested_right_nav,
+                  widget: list,
+                  fields: { label: "Nested Display Text", name: "nested_display_text" , widget: "string", required: true }, { label: "nested URL", name: "nested_url", widget: "string", required: true }
+                }
