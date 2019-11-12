@@ -1,8 +1,8 @@
 ---
 title: Freelancer Frühstück
-top_image: /img/uploads/test-f5.jpg
-top_image_alt: Deliziöser Kaffee
-top_lead: >-
+image: /img/uploads/test-f5.jpg
+image_alt: Deliziöser Kaffee
+lead: >-
   [Sarah Steffen](http://www.sarahsteffen.de/) und [Silvia
   Rak](https://www.freiwasser-marketing.de/profil/ueber-mich/) laden im Rahmen
   des Projektes [freelancers & friends](http://freelancers-and-friends.de/) 
@@ -32,8 +32,8 @@ top_lead: >-
 
   **Tee, Kaffee und frische Brötchen mit Belag nach Wahl bekommst Du zum
   Selbstkostenpreis.**
-top_cta: Mach mit
-top_cta_url: 'https://www.eventbrite.de/e/freelancers-friends-fruhstuck-tickets-76917601617'
+cta: Mach mit
+cta_url: 'https://www.eventbrite.de/e/freelancers-friends-fruhstuck-tickets-76917601617'
 second_title: Another section
 second_lead: 'Another lead ... no idea what to do with this, to be honest'
 slider_images:
