@@ -1,21 +1,19 @@
 ---
 layout: home
-permalink: /fruehstueck
-title: Frühstück
 ---
 <section>
     <div class="container">
         <div class="row v-align-children">
             <div class="col-md-7 col-sm-6 text-center mb-xs-24">
-              <img class="cast-shadow" alt="{{ site.data.pages.fruehstueck.top_image_alt | xml_escape }}" src="{{ site.data.pages.fruehstueck.top_image }}">
+              <img class="cast-shadow" alt="{{ page.image_alt | xml_escape }}" src="{{ page.image }}">
             </div>
             <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">
-                <h3>{{ site.data.pages.fruehstueck.top_title }}</h3>
+                <h3>{{ page.title }}</h3>
                 <p>
-                    {{ site.data.pages.fruehstueck.top_lead | markdownify }}
+                    {{ page.lead | markdownify }}
                 </p>
-                <a class="btn-filled btn" href="{{ site.data.pages.fruehstueck.top_cta_url }}">
-                    {{ site.data.pages.fruehstueck.top_cta }}
+                <a class="btn-filled btn" href="{{ page.cta_url }}">
+                    {{ page.cta }}
                 </a>
             </div>
         </div>
@@ -28,9 +26,9 @@ title: Frühstück
     <div class="container">
         <div class="row v-align-children">
             <div class="col-sm-5">
-                <h3>{{ site.data.pages.fruehstueck.second_title }}</h3>
+                <h3>{{ page.second_title }}</h3>
                 <p class="lead mb40">
-                    {{ site.data.pages.fruehstueck.second_lead | markdownify }}
+                    {{ page.second_lead | markdownify }}
                 </p>
 
                 <div class="overflow-hidden mb32 mb-xs-24">
@@ -62,10 +60,10 @@ title: Frühstück
 
 <section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70">
     <ul class="slides">
-        {% for item in site.data.pages.fruehstueck.slider_images %}
+        {% for item in page.slider_images %}
             <li> <img alt="{{ item.image_alt | xml_escape }}" src="{{ item.image }}"> </li>
         {% endfor %}
     </ul>
 </section>
 
-{% include footer.html bgcolor=site.data.pages.fruehstueck.meta_footercolor %}
+{% include footer.html bgcolor=page.meta_footercolor %}

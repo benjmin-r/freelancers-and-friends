@@ -11,6 +11,7 @@ collections: # A list of collections the CMS should be able to edit
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: title
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
@@ -21,15 +22,17 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: "event"
     label: "Event"
+    create: true # Allow users to create new documents in this collection
     folder: "_events"
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
+    identifier_field: title
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
-      - { label: "Top Image", name: "top_image", widget: "image"}
-      - { label: "Top Image Alt text", name: "top_image_alt", widget: "string"}
-      - { label: "Top Title", name: "top_title", widget: "string" }
-      - { label: "Top Lead", name: "top_lead", widget: "markdown" }
-      - { label: "Top CTA", name: "top_cta", widget: "string" }
-      - { label: "Top CTA URL", name: "top_cta_url", widget: "string" }
+      - { label: "Image", name: "top_image", widget: "image"}
+      - { label: "Image Alt text", name: "top_image_alt", widget: "string"}
+      - { label: "Lead", name: "top_lead", widget: "markdown" }
+      - { label: "CTA", name: "top_cta", widget: "string" }
+      - { label: "CTA URL", name: "top_cta_url", widget: "string" }
       - { label: "2nd Title", name: "second_title", widget: "string" }
       - { label: "2nd Lead", name: "second_lead", widget: "markdown" }
       - label: "Slider Images"
@@ -39,6 +42,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Image", name: "image", widget: "image"}
           - { label: "Alt text", name: "image_alt", widget: "string"}
+      - label: "Meta: Layout"
+        name: "layout"
+        widget: "select"
+        default: ["event"]
+        options:
+          - { label: "Standard Event", value: "event" }
       - label: "Meta: Footer Color"
         name: "meta_footercolor"
         widget: "select"
