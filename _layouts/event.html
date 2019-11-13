@@ -61,7 +61,11 @@ layout: home
 <section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70">
     <ul class="slides">
         {% for item in page.slider_images %}
-            <li> <img alt="{{ item.image_alt | xml_escape }}" src="{{ item.image }}"> </li>
+            <li class="overlay image-bg">
+                <div class="background-image-holder">
+                  <img class="background-image" alt="{{ item.image_alt | xml_escape }}" src="{{ item.image }}">
+                </div>
+            </li>
         {% endfor %}
     </ul>
 </section>
