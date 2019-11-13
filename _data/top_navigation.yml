@@ -3,12 +3,8 @@ left_nav:
     url: /
   - display_text: Wir
     url: /wir
-  - display_text: Events & Projekte
-    url: /events
 right_nav:
-  - display_text: Blog
-    url: /
   - display_text: Newsletter
-    url: /
-  - display_text: Kontakt
-    url: /
+    url: /newsletter
+  - display_text: Veranstaltungen
+    url: /events
