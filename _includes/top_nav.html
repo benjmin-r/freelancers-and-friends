@@ -29,6 +29,13 @@
                   {% for item in site.data.top_navigation.right_nav %}
                     <li>
                         <a href="{{ item.url }}">{{ item.display_text }}</a>
+                        {% if item.url == '/events' %}
+                          <ul>
+                            {% for event in site.events %}
+                            <li><a href="{{ event.url }}">{{ event.title }}</a></li>
+                            {% endfor %}
+                          </ul>
+                        {% endif %}
                     </li>
                   {% endfor %}
                 </ul>
