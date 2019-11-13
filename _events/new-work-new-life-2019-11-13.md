@@ -1,5 +1,6 @@
 ---
 title: 'New Work: New Life?'
+permalink: /events/new-work-new-life-am-27-november
 image: /img/uploads/test - fr2.jpg
 image_alt: 'Top Event. Abends und so. '
 lead: >-
