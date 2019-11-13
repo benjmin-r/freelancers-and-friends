@@ -42,6 +42,6 @@ slider_images:
   - image: /img/uploads/test - fr2.jpg
     image_alt: People listening to a smart women
 layout: event
-meta_footercolor: primary
+meta_footercolor: white
 ---
 
