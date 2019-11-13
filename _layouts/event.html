@@ -17,11 +17,21 @@ layout: home
                 </a>
             </div>
         </div>
-
-    </div>
-
 </section>
 
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+            <div class="col-sm-12 text-center">
+                <h4 class="uppercase mb16">{{ page.second_title }}</h4>
+                <p class="lead mb64"> {{ page.second_lead | markdownify }} </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% comment %}
 <section>
     <div class="container">
         <div class="row v-align-children">
@@ -57,6 +67,7 @@ layout: home
         </div>
     </div>
 </section>
+{% endcomment %}
 
 <section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70">
     <ul class="slides">

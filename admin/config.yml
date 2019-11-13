@@ -28,9 +28,11 @@ collections: # A list of collections the CMS should be able to edit
     identifier_field: title
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
-      - { label: "Image", name: "image", widget: "image"}
+      - { label: "URL", name: "permalink", widget: "string", required: true }
+      - { label: "Date", name: "event_date", widget: "date", default: "", format: "DD.MM.YYYY", dateFormat: "DD. MMM. YYYY", required: true }
+      - { label: "Image", name: "image", widget: "image", hint: "Seitenverhältnis sollte sein Breite:Höhe 1,5:1, mind. 650x435px" }
       - { label: "Image Alt text", name: "image_alt", widget: "string"}
-      - { label: "Lead", name: "lead", widget: "markdown" }
+      - { label: "Lead", name: "lead", widget: "markdown", hint: "Optimales Ergebenis bei ca 2 Absätzen, ca 50 Worte insgesamt" }
       - { label: "CTA", name: "cta", widget: "string" }
       - { label: "CTA URL", name: "cta_url", widget: "string" }
       - { label: "2nd Title", name: "second_title", widget: "string" }
