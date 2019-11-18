@@ -5,6 +5,12 @@ event_date: 27.11.2019
 image: /img/uploads/nw_collage.jpg
 image_alt: 'New Work: New Life? - Gäste: Kirsti Pärssinen und Human Nagafi'
 lead: >-
+  Wie wollen wir in Zukunft leben und arbeiten? Tausche Dich mit unseren Gästen
+  aus und erweitere Dein Netzwerk und Deinen Horizont.
+cta: TICKET KAUFEN
+cta_url: 'https://www.eventbrite.de/e/new-work-new-life-tickets-79006351123'
+second_title: Wie wollen wir in Zukunft leben und arbeiten?
+second_lead: >-
   Starre Ablaufpläne. Lange Arbeitszeiten. Mangelndes Vertrauen. Theoretische
   Vielfalt. Hartnäckiges Silodenken:
 
@@ -14,10 +20,10 @@ lead: >-
   bestimmt. Währenddessen verschwimmen die Grenzen zwischen Beruf und Freizeit
   langsam. Vokabeln wie „Agile Mindset“, „Remote Work“ oder „Servant Leadership“
   dominieren Management-Seminare.
-cta: TICKET KAUFEN
-cta_url: 'https://www.eventbrite.de/e/new-work-new-life-tickets-79006351123'
-second_title: Wie wollen wir in Zukunft leben und arbeiten?
-second_lead: >-
+
+
+
+
   Wie gehen Unternehmen mit den Herausforderungen um? Was ist nur PR-basierter
   Schein und was gelebte Realität? Wird eine Human Resources-Abteilung
   Arbeitnehmer zukünftig wirklich wie Menschen behandeln und nicht wie
@@ -29,20 +35,20 @@ second_lead: >-
 
 
   **Ein Pa­ra­dig­men­wech­sel findet statt und nur wer mitredet, gestaltet ihn
-  aktiv. Sei Teil dieser zukunftsbestimmenden Diskussion.** 
+  aktiv. Sei Teil dieser zukunftsbestimmenden Diskussion. <br><br>**
 
 
   Mit dabei sind u.a.
 
 
-  [Human Nagafi](https://de.linkedin.com/in/human-nagafi-41a851ba), 1789\
+  [Human Nagafi](https://de.linkedin.com/in/human-nagafi-41a851ba), 178\
 
   [Kirsti Pärssinen](https://de.linkedin.com/in/kirsti-p%C3%A4rssinen-740540a0),
   Frankfurter Buchmesse
 
 
-  **Wir freuen uns auf ein Gespräch mit Dir und unseren Gästen - bei Getränken
-  und köstlichen Snacks!**
+  **<br>Wir freuen uns auf ein Gespräch mit Dir und unseren Gästen - bei
+  Getränken und köstlichen Snacks!**
 
 
   ****
