@@ -52,7 +52,7 @@ second_lead: >-
   - - -
 
 
-  **Agenda**
+  ## **Agenda**
 
 
   19:00 Ankommen, Netzwerken & Willkommen
