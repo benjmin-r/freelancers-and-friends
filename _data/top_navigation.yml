@@ -1,10 +1,10 @@
 left_nav:
   - display_text: Home
     url: /
-  - display_text: Wir
-    url: /wir
-right_nav:
   - display_text: Newsletter
     url: /newsletter
+right_nav:
+  - display_text: Wir
+    url: /wir
   - display_text: Veranstaltungen
     url: /events
