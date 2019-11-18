@@ -12,3 +12,7 @@
 input[type="submit"], button[type="submit"] {
   font-size: 12px;
 }
+
+.menu li a.active {
+  opacity: 1 !important;
+}

@@ -2,7 +2,7 @@
     <nav>
         <div class="nav-bar text-center">
             <div class="col-md-2 col-md-push-5 col-sm-12 text-center">
-                <a href="#">
+                <a href="/">
                     <div class="vnu"><img alt="logo" class="image-xxs" src="/img/f_f_twitter.gif"></div>
                 </a>
             </div>
@@ -11,7 +11,7 @@
                 <ul class="menu inline-block pull-right">
                   {% for item in site.data.top_navigation.left_nav %}
                     <li>
-                        <a href="{{ item.url }}">{{ item.display_text }}</a>
+                      <a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.display_text }}</a>
                         {% if item.url == '/events' or item.display_text == 'Veranstaltungen' %}
                           <ul>
                             {% for event in site.events %}
@@ -28,7 +28,7 @@
                 <ul class="menu">
                   {% for item in site.data.top_navigation.right_nav %}
                     <li>
-                        <a href="{{ item.url }}">{{ item.display_text }}</a>
+                      <a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.display_text }}</a>
                         {% if item.url == '/events' or item.display_text == 'Veranstaltungen' %}
                           <ul>
                             {% for event in site.events %}

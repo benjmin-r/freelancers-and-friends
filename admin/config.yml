@@ -128,7 +128,7 @@ collections: # A list of collections the CMS should be able to edit
         file: "_data/newsletter_options.yml"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "markdown" }
           - { label: "Success on Subscribe Message", name: "success_message", widget: "string" }
           - { label: "Error on Subscribe Message", name: "error_message", widget: "string" }
           - { label: "Email Field Placeholder", name: "email_placeholder", widget: "string" }
