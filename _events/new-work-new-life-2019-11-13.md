@@ -11,8 +11,8 @@ cta: TICKET KAUFEN
 cta_url: 'https://www.eventbrite.de/e/new-work-new-life-tickets-79006351123'
 second_title: Wie wollen wir in Zukunft leben und arbeiten?
 second_lead: >-
-  Starre Ablaufpläne. Lange Arbeitszeiten. Mangelndes Vertrauen. Theoretische
-  Vielfalt. Hartnäckiges Silodenken:
+  <p align="left">Starre Ablaufpläne. Lange Arbeitszeiten. Mangelndes Vertrauen.
+  Theoretische Vielfalt. Hartnäckiges Silodenken:
 
 
   Die Altlasten der Industrialisierung sind in Zeiten der digitalen
@@ -20,8 +20,6 @@ second_lead: >-
   bestimmt. Währenddessen verschwimmen die Grenzen zwischen Beruf und Freizeit
   langsam. Vokabeln wie „Agile Mindset“, „Remote Work“ oder „Servant Leadership“
   dominieren Management-Seminare.
-
-
 
 
   Wie gehen Unternehmen mit den Herausforderungen um? Was ist nur PR-basierter
@@ -51,7 +49,7 @@ second_lead: >-
   Getränken und köstlichen Snacks!**
 
 
-  ****
+  - - -
 
 
   **Agenda**
@@ -66,12 +64,15 @@ second_lead: >-
   20:30 - 21:00 Netzwerken
 
 
-  ****
+  - - -
 
 
   Bei der Organisation werden wir freundlich von den
   [Techettes](http://techettes-frankfurt.com/) und den [Herren der
   Schöpfung](https://www.herrenderschoepfung.de/de) unterstützt.
+
+
+  </p>
 slider_images: []
 layout: event
 meta_footercolor: white
