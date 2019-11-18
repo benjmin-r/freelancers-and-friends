@@ -22,8 +22,6 @@ second_lead: >-
   dominieren Management-Seminare.
 
 
-
-
   Wie gehen Unternehmen mit den Herausforderungen um? Was ist nur PR-basierter
   Schein und was gelebte Realität? Wird eine Human Resources-Abteilung
   Arbeitnehmer zukünftig wirklich wie Menschen behandeln und nicht wie
@@ -41,12 +39,8 @@ second_lead: >-
   Mit dabei sind u.a.
 
 
-
-
   [Human Nagafi](https://de.linkedin.com/in/human-nagafi-41a851ba), 1789
 
-
-  \
 
   [Kirsti Pärssinen](https://de.linkedin.com/in/kirsti-p%C3%A4rssinen-740540a0),
   Frankfurter Buchmesse
