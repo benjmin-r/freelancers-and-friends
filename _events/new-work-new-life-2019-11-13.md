@@ -2,8 +2,8 @@
 title: 'New Work: New Life?'
 permalink: /events/new-work-new-life-am-27-november
 event_date: 27.11.2019
-image: /img/uploads/test - fr2.jpg
-image_alt: 'Top Event. Abends und so. '
+image: /img/uploads/nw_collage.jpg
+image_alt: 'New Work: New Life? - Gäste: Kirsti Pärssinen und Human Nagafi'
 lead: >-
   Starre Ablaufpläne. Lange Arbeitszeiten. Mangelndes Vertrauen. Theoretische
   Vielfalt. Hartnäckiges Silodenken:
