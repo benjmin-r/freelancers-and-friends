@@ -11,8 +11,8 @@ cta: TICKET KAUFEN
 cta_url: 'https://www.eventbrite.de/e/new-work-new-life-tickets-79006351123'
 second_title: Wie wollen wir in Zukunft leben und arbeiten?
 second_lead: >-
-  <p align="left">Starre Ablaufpläne. Lange Arbeitszeiten. Mangelndes Vertrauen.
-  Theoretische Vielfalt. Hartnäckiges Silodenken:
+  Starre Ablaufpläne. Lange Arbeitszeiten. Mangelndes Vertrauen. Theoretische
+  Vielfalt. Hartnäckiges Silodenken:
 
 
   Die Altlasten der Industrialisierung sind in Zeiten der digitalen
@@ -70,9 +70,6 @@ second_lead: >-
   Bei der Organisation werden wir freundlich von den
   [Techettes](http://techettes-frankfurt.com/) und den [Herren der
   Schöpfung](https://www.herrenderschoepfung.de/de) unterstützt.
-
-
-  </p>
 slider_images: []
 layout: event
 meta_footercolor: white
