@@ -7,4 +7,4 @@ right_nav:
   - display_text: Wir
     url: /wir
   - display_text: Veranstaltungen
-    url: /events
+    url: '#'
