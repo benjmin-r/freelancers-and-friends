@@ -26,6 +26,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_events"
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     identifier_field: title
+    editor:
+      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
       - { label: "URL", name: "permalink", widget: "string", required: true }
