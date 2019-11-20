@@ -5,7 +5,7 @@ event_date: 27.11.2019
 image: /img/uploads/nw_collage.jpg
 image_alt: 'New Work: New Life? - Gäste: Kirsti Pärssinen und Human Nagafi'
 lead: >-
-  27. November 2019
+  27 November 2019
 
 
   Wie wollen wir in Zukunft leben und arbeiten? Tausche Dich mit unseren Gästen
