@@ -12,9 +12,11 @@ lead: >-
   aus und erweitere Dein Netzwerk und Deinen Horizont.
 
 
-  HERREN DER SCHÖPFUNG GmbH\
+  HERREN DER SCHÖPFUNG GmbH
 
-  Hanauer Landstraße 184\
+
+  Hanauer Landstraße 184
+
 
   60314 Frankfurt am Main
 cta: TICKET KAUFEN
