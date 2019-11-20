@@ -12,13 +12,13 @@ lead: >-
   aus und erweitere Dein Netzwerk und Deinen Horizont.
 
 
-  HERREN DER SCHÖPFUNG GmbH
+  HERREN DER SCHÖPFUNG GmbH  
 
 
-  Hanauer Landstraße 184
+  <br>Hanauer Landstraße 184  
 
 
-  60314 Frankfurt am Main
+  <br>60314 Frankfurt am Main
 cta: TICKET KAUFEN
 cta_url: 'https://www.eventbrite.de/e/new-work-new-life-tickets-79006351123'
 second_title: Wie wollen wir in Zukunft leben und arbeiten?
