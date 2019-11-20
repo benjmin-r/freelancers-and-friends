@@ -5,8 +5,18 @@ event_date: 27.11.2019
 image: /img/uploads/nw_collage.jpg
 image_alt: 'New Work: New Life? - Gäste: Kirsti Pärssinen und Human Nagafi'
 lead: >-
+  27. November 2019
+
+
   Wie wollen wir in Zukunft leben und arbeiten? Tausche Dich mit unseren Gästen
   aus und erweitere Dein Netzwerk und Deinen Horizont.
+
+
+  HERREN DER SCHÖPFUNG GmbH\
+
+  Hanauer Landstraße 184\
+
+  60314 Frankfurt am Main
 cta: TICKET KAUFEN
 cta_url: 'https://www.eventbrite.de/e/new-work-new-life-tickets-79006351123'
 second_title: Wie wollen wir in Zukunft leben und arbeiten?
