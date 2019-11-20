@@ -53,7 +53,8 @@ second_lead: >-
 
 
   **<br>Wir freuen uns auf ein Gespräch mit Dir und unseren Gästen - bei
-  Getränken und köstlichen Snacks!<br><br>**
+  Getränken und köstlichen Snacks von
+  [FoodVoJu](https://foodvoju.wordpress.com)!<br><br>**
 
 
   - - -
