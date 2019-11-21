@@ -17,7 +17,7 @@ title: freelancers & friends
 email: hello@freelancers-and-friends.de
 description: "freelancers & friends: Netzwerk - Veranstaltungen - Inspirationen für alle Freiberufler und ihre Freunde rund um Frankfurt. Machst Du mit?"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.freelancers-and-friends.de/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.freelancers-and-friends.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
   events:
