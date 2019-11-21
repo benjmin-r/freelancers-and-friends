@@ -1,0 +1,17 @@
+<meta property="og:url" content="{{ page.url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ current_title}}">
+
+{% if page.meta_image!= nil %}
+  <meta property="og:image" content="{{ page.meta_image }}">
+{% elsif site.data.default_meta_tags.image != nil %}
+  <meta property="og:image" content="{{ site.data.default_meta_tags.image}}">
+{% endif %}
+
+{% if page.meta_description != nil %}
+  <meta property="og:description" content="{{ page.meta_description }}">
+{% elsif site.data.default_meta_tags.description != nil %}
+  <meta property="og:description" content="{{ site.data.default_meta_tags.description }}">
+{% else %}
+  <meta property="og:description" content="{{ site.description }}">
+{% endif %}

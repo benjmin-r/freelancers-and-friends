@@ -46,6 +46,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Image", name: "image", widget: "image"}
           - { label: "Alt text", name: "image_alt", widget: "string"}
+      - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
+      - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
       - label: "Meta: Layout"
         name: "layout"
         widget: "select"
@@ -79,6 +81,8 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Featured Text", name: "feature_text", widget: "string" }
           - { label: "Featured CTA", name: "feature_cta", widget: "string" }
           - { label: "Featured CTA URL", name: "feature_cta_url", widget: "string" }
+          - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
+          - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
           - label: "Meta: Footer Color"
             name: "meta_footercolor"
             widget: "select"
@@ -99,6 +103,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Image", name: "image", widget: "image"}
               - { label: "Alt text", name: "image_alt", widget: "string"}
+          - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
+          - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
           - label: "Meta: Footer Color"
             name: "meta_footercolor"
             widget: "select"
@@ -112,6 +118,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Top Title", name: "top_title", widget: "string" }
           - { label: "Lead", name: "lead", widget: "markdown" }
+          - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
+          - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
           - label: "Meta: Footer Color"
             name: "meta_footercolor"
             widget: "select"

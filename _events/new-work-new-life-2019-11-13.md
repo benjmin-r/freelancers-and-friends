@@ -88,5 +88,11 @@ second_lead: >-
 slider_images: []
 layout: event
 meta_footercolor: white
+meta_description: >-
+  Wie wollen wir in Zukunft leben und arbeiten? Tausche Dich mit unseren Gästen
+  aus und erweitere Dein Netzwerk und Deinen Horizont.
+
+  Am 27 November 2019 um 19 Uhr bei HERREN DER SCHÖPFUNG GmbH (Hanauer Landstraße 184, 60314 Frankfurt am Main).
+meta_image: /img/uploads/new-work-gäste-sw.jpg
 ---
 
