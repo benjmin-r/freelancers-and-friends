@@ -125,6 +125,12 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: false
     files:
+      - label: "Default Meta Tags"
+        name: default_meta_tags
+        file: "_data/default_meta_tags.yml"
+        fields:
+          - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image" }
       - label: "General Newsletter Options"
         name: newsletter_options
         file: "_data/newsletter_options.yml"
