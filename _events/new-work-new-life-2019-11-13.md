@@ -52,6 +52,10 @@ second_lead: >-
   Frankfurter Buchmesse
 
 
+  [Lia Backendorf](https://www.linkedin.com/in/lia-backendorf-48816913b/),
+  #FORTSCHRITT 
+
+
   **<br>Wir freuen uns auf ein Gespräch mit Dir und unseren Gästen - bei
   Getränken und köstlichen Snacks von
   [FoodVoJu](https://foodvoju.wordpress.com)!<br><br>**
