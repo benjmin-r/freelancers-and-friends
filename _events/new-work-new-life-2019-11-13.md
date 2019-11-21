@@ -2,7 +2,7 @@
 title: 'New Work: New Life?'
 permalink: /events/new-work-new-life-am-27-november
 event_date: 27.11.2019
-image: /img/uploads/new-work-gäste-event.jpg
+image: /img/uploads/new-work-gaeste-event.jpg
 image_alt: 'New Work: New Life? - Gäste: Kirsti Pärssinen und Human Nagafi'
 lead: >-
   27 November 2019, 19:00
@@ -93,6 +93,6 @@ meta_description: >-
   aus und erweitere Dein Netzwerk und Deinen Horizont.
 
   Am 27 November 2019 um 19 Uhr bei HERREN DER SCHÖPFUNG GmbH (Hanauer Landstraße 184, 60314 Frankfurt am Main).
-meta_image: /img/uploads/new-work-gäste-sw.jpg
+meta_image: /img/uploads/new-work-gaeste-sw.jpg
 ---
 
