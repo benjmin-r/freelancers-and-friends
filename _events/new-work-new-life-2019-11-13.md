@@ -2,7 +2,7 @@
 title: 'New Work: New Life?'
 permalink: /events/new-work-new-life-am-27-november
 event_date: 27.11.2019
-image: /img/uploads/new-work-gaeste-event.jpg
+image: /img/uploads/new-work-new-life.jpg
 image_alt: 'New Work: New Life? - Gäste: Kirsti Pärssinen und Human Nagafi'
 lead: >-
   27. November 2019, 19:00
