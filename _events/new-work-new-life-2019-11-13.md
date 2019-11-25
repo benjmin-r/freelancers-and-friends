@@ -86,13 +86,10 @@ second_lead: >-
   [Techettes](http://techettes-frankfurt.com/) und den [Herren der
   Schöpfung](https://www.herrenderschoepfung.de/de) unterstützt.
 slider_images: []
-meta_image: /img/uploads/new-work-gaeste-event.jpg
+meta_image: /img/uploads/new-work-gaeste-sw.jpg
 meta_description: >-
   Wie wollen wir in Zukunft leben und arbeiten? Tausche Dich mit unseren Gästen
-  aus und erweitere Dein Netzwerk und Deinen Horizont.
-
-  Am 27. November 2019 um 19 Uhr bei HERREN DER SCHÖPFUNG GmbH (Hanauer
-  Landstraße 184, 60314 Frankfurt am Main).
+  aus und erweitere Dein Netzwerk und Deinen Horizont: 27. 11.2019, 19 Uhr.
 layout: event
 meta_footercolor: white
 ---
