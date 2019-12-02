@@ -2,9 +2,16 @@
 title: freelancers & friends - Frühstück
 permalink: fruehstueck
 event_date: 29.01.2020
-image: /img/uploads/test-breakfast.jpg
-image_alt: freelancers & friends - Frühstück
+image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
+image_alt: freelancers & friends - Frühstück im Mindspace
 lead: >-
+  Im Januar 2020 treffen wir uns erneut, um unser Netzwerk und unseren Horizont
+  zu erweitern. Du möchtest Ort und Datum frühzeitig erfahren? Dann melde Dich
+  für unseren Newsletter an. Wir freuen uns, Dich kennenzulernen!
+cta: Her mit dem Newsletter!
+cta_url: 'http://eepurl.com/gdo-Yf'
+second_title: Nahrung für Leib und Seele
+second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
 
 
@@ -17,20 +24,20 @@ lead: >-
   * \- einen neuen Coworking-Space kennenzulernen
 
 
-  Wir treffen uns im Januar 2020 wieder. Möchtest Du rechtzeitig erfahren, wann
-  genau und wo wir unser Netzwerk und unseren Horizont erweitern? Dann melde
-  Dich für unseren Newsletter an. Wir freuen uns, Dich kennenzulernen!
-cta: Her mit dem Newsletter!
-cta_url: 'http://eepurl.com/gdo-Yf'
-second_title: '   '
-second_lead: \
+  ****
+
+
+  **Tee, Kaffee und frische Brötchen mit Belag nach Wahl bekommst Du zum
+  Selbstkostenpreis.**
 slider_images:
   - image: /img/uploads/test - fr2.jpg
     image_alt: Kathe Büttner beim freelancers & friends - Frühstück
+  - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
+    image_alt: freelancers & friends - Frühstück im Mindspace
 meta_image: /img/uploads/frühstück_eventbrite.png
 meta_description: >-
   Erweitere Dein Netzwerk und Deinen Horizont beim freelancers & friends -
-  Frühstück. Lausche zudem einem Gastbeitrag und lerne einen Coworking-space
+  Frühstück. Lausche zudem einem Gastbeitrag und lerne einen Coworking-Space
   kennen.
 layout: event
 meta_footercolor: white
