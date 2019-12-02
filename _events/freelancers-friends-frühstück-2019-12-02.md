@@ -8,13 +8,13 @@ lead: >-
   Bei unserem regelmäßigen Frühstück geht es darum...
 
 
-  * mit Gleichgesinnten lecker zu frühstücken
+  * \- mit Gleichgesinnten lecker zu frühstücken
 
-  * neue Kontakte zu knüpfen
+  * \- neue Kontakte zu knüpfen
 
-  * einem kurzen (10 Minuten) Gastbeitrag zu lauschen
+  * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
 
-  * das CoWorkPlay kennenzulernen
+  * \- das CoWorkPlay kennenzulernen
 
 
   Wir treffen uns im Januar 2020 wieder. Möchtest Du rechtzeitig erfahren, wann
