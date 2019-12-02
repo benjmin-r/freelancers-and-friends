@@ -34,6 +34,8 @@ slider_images:
     image_alt: Kathe Büttner beim freelancers & friends - Frühstück
   - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
     image_alt: freelancers & friends - Frühstück im Mindspace
+  - image: /img/uploads/freelancers-and-friends-graphic-recording-rucha-ambekar.jpg
+    image_alt: freelancers & friends - Frühstück - Graphic Recording Rucha Ambekar
 meta_image: /img/uploads/frühstück_eventbrite.png
 meta_description: >-
   Erweitere Dein Netzwerk und Deinen Horizont beim freelancers & friends -
