@@ -1,6 +1,6 @@
 ---
 title: freelancers & friends - Frühstück
-permalink: fruehstueck
+permalink: /events/fruehstueck
 event_date: 29.01.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück im Mindspace
