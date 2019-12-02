@@ -62,7 +62,7 @@ second_lead: >-
   [FoodVoJu](https://foodvoju.wordpress.com)!<br>**
 
 
-  **Bei der Organisation werden wir freundlich von den**
+  **Bei der Organisation wurden wir freundlich von den**
   [**Techettes**](http://techettes-frankfurt.com/) **und den** [**Herren der
   Schöpfung**](https://www.herrenderschoepfung.de/de) **unterstützt.**
 slider_images: []
