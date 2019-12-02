@@ -2,7 +2,7 @@
 title: freelancers & friends - Frühstück
 permalink: fruehstueck
 event_date: 29.01.2020
-image: /img/uploads/test - sf.jpg
+image: /img/uploads/test-f5.jpg
 image_alt: Kathe Büttner beim freelancers & friends - Frühstück
 lead: >-
   Bei unserem regelmäßigen Frühstück geht es darum...
