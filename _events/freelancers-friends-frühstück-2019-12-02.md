@@ -2,7 +2,7 @@
 title: freelancers & friends - Frühstück
 permalink: fruehstueck
 event_date: 29.01.2020
-image: /img/uploads/freelancers-and-friends-frühstück_k.jpg
+image: /img/uploads/test-breakfast.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
   Bei unserem regelmäßigen Event geht es darum...
