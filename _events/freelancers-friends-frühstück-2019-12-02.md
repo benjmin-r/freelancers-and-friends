@@ -14,12 +14,12 @@ lead: >-
 
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
 
-  * \- das CoWorkPlay kennenzulernen
+  * \- einen Coworking-Space kennenzulernen
 
 
   Wir treffen uns im Januar 2020 wieder. Möchtest Du rechtzeitig erfahren, wann
-  genau und wo wir uns treffen? Dann melde Dich für unseren Newsletter an. Wir
-  freuen uns, Dich kennenzulerenen!
+  genau und wo wir unser Netzwerk und unseren Horizont erweitern? Dann melde
+  Dich für unseren Newsletter an. Wir freuen uns, Dich kennenzulernen!
 cta: Her mit dem Newsletter!
 cta_url: 'http://eepurl.com/gdo-Yf'
 second_title: '   '
