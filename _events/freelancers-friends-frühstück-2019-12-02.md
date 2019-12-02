@@ -5,7 +5,7 @@ event_date: 29.01.2020
 image: /img/uploads/freelancers-and-friends-frühstück_k.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
-  Bei unserem regelmäßigen Frühstück geht es darum...
+  Bei unserem regelmäßigen Event geht es darum...
 
 
   * \- mit Gleichgesinnten lecker zu frühstücken
@@ -14,7 +14,7 @@ lead: >-
 
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
 
-  * \- einen Coworking-Space kennenzulernen
+  * \- einen neuen Coworking-Space kennenzulernen
 
 
   Wir treffen uns im Januar 2020 wieder. Möchtest Du rechtzeitig erfahren, wann
