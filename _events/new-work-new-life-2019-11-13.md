@@ -58,7 +58,7 @@ second_lead: >-
   - - -
 
 
-  **Köstlichen Snacks gab es von
+  **Köstliche Snacks gab es von
   [FoodVoJu](https://foodvoju.wordpress.com)!<br>**
 
 
