@@ -13,12 +13,10 @@ lead: >-
   Farideh arbeitet seit 1990 als freie People-Fotografin und gibt  innerhalb 
   [unseres gemeinsamen
   Fotoprojektes](https://www.instagram.com/freelancers_and_friends/) Freelancern
-  aus Frankfurt und der Umgebung ein Gesicht. Da wir 2020 kreativ und voller
-  Inspiration beginnen wollen, freuen wir uns sehr, dass Farideh als Ehrengast
-  aus dem Nähkästchen plaudert.
+  aus Frankfurt und der Umgebung ein Gesicht. 
 
 
-  Wir freuen uns darauf, Dich kennenzulernen und zu begrüßen!
+  Lass uns 2020 kreativ und voller Inspiration beginnen!
 cta: Ich bin dabei!
 cta_url: 'https://www.eventbrite.de/o/sarah-steffen-und-silvia-rak-18540414738'
 second_title: Nahrung für Leib und Seele
