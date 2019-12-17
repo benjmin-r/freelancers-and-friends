@@ -18,7 +18,7 @@ lead: >-
 
   Lass uns 2020 kreativ und voller Inspiration beginnen!
 cta: Ich bin dabei!
-cta_url: 'https://www.eventbrite.de/o/sarah-steffen-und-silvia-rak-18540414738'
+cta_url: 'https://www.eventbrite.de/e/freelancers-friends-fruhstuck-tickets-86315246225'
 second_title: Nahrung für Leib und Seele
 second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
