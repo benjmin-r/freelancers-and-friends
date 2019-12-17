@@ -6,19 +6,16 @@ image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück im Mindspace
 lead: >-
   Am 16. Januar 2020 treffen wir uns erneut, um unser Netzwerk und unseren
-  Horizont zu erweitern. Unsere Gastgeberin wird diesmal [Farideh Diehl](<>)
-  sein.
+  Horizont zu erweitern. Unsere Gastgeberin wird diesmal [Farideh
+  Diehl](http://farideh.de) sein.
 
 
-  Farideh arbeitet seit 1990 als freie People-Fotografin, hat 1996 die
-  Castingagentur www.castin.de gegründet und gibt  innerhalb  unseres
-  [gemeinsamen Fotoprojektes](<>) Freelancern aus Frankfurt und der Umgebung ein
-  Gesicht. 
-
-
-  Da wir 2020 kreativ und voller Inspiration beginnen wollen, freuen wir uns
-  sehr, dass  Farideh unserer Bitte folgt, als Ehrengast aus dem Nähkästchen zu
-  plaudern.
+  Farideh arbeitet seit 1990 als freie People-Fotografin und gibt  innerhalb 
+  [unseres gemeinsamen
+  Fotoprojektes](https://www.instagram.com/freelancers_and_friends/) Freelancern
+  aus Frankfurt und der Umgebung ein Gesicht. Da wir 2020 kreativ und voller
+  Inspiration beginnen wollen, freuen wir uns sehr, dass Farideh als Ehrengast
+  aus dem Nähkästchen plaudert.
 
 
   Wir freuen uns darauf, Dich kennenzulernen und zu begrüßen!
