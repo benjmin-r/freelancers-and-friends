@@ -24,11 +24,7 @@ second_lead: >-
   <b>16. Januar 2020 | 09:30 Uhr – 11:00 Uhr</b>
 
 
-  Farideh Fotografie<br>\
-
-  Intzestraße 1<br>\
-
-  60314 Frankfurt am Main<br>
+  Farideh Fotografie<br>Intzestraße 1<br>60314 Frankfurt am Main<br>
 
 
 
