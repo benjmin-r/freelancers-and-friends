@@ -36,13 +36,13 @@ second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
 
 
-  * mit Gleichgesinnten lecker zu frühstücken
+  * \- mit Gleichgesinnten lecker zu frühstücken
 
-  * neue Kontakte zu knüpfen
+  * \- neue Kontakte zu knüpfen
 
-  * einem kurzen (10 Minuten) Gastbeitrag zu lauschen
+  * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
 
-  * einen neuen Coworking-Space oder sonstige spannende Orte kennenzulernen
+  * \- einen neuen Coworking-Space oder sonstige spannende Orte kennenzulernen
 
 
   - - -
