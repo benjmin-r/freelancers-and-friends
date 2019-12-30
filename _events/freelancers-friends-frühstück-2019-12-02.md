@@ -21,6 +21,18 @@ cta: Ich bin dabei!
 cta_url: 'https://www.eventbrite.de/e/freelancers-friends-fruhstuck-tickets-86315246225'
 second_title: Nahrung für Leib und Seele
 second_lead: >-
+  **16. Januar 2020 | 09:30 Uhr – 11:00 Uhr**
+
+
+  Farideh Fotografie\
+
+  Intzestraße 1\
+
+  60314 Frankfurt am Main
+
+
+
+
   Bei unserem regelmäßigen Event geht es darum...
 
 
