@@ -5,9 +5,9 @@ event_date: 16.01.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück im Mindspace
 lead: >-
-  Am 16. Januar 2020 treffen wir uns erneut, um unser Netzwerk und unseren
-  Horizont zu erweitern. Unsere Gastgeberin wird diesmal [Farideh
-  Diehl](http://farideh.de) sein.
+  Am 16. Januar 2020 trafen wir uns erneut, um unser Netzwerk und unseren
+  Horizont zu erweitern. Unsere Gastgeberin war diesmal [Farideh
+  Diehl](http://farideh.de).
 
 
   Farideh arbeitet seit 1990 als freie People-Fotografin und gibt  innerhalb 
@@ -16,9 +16,10 @@ lead: >-
   aus Frankfurt und der Umgebung ein Gesicht. 
 
 
-  Lass uns 2020 kreativ und voller Inspiration beginnen!
-cta: Ich bin dabei!
-cta_url: 'https://www.eventbrite.de/e/freelancers-friends-fruhstuck-tickets-86315246225'
+  Du willst das nächste Event nicht verpassen? Dann melde dich für unseren
+  Newsletter an.
+cta: Her mit dem Newsletter!
+cta_url: 'http://eepurl.com/gdo-Yf'
 second_title: Nahrung für Leib und Seele
 second_lead: >-
   <b>16. Januar 2020 | 09:30 Uhr – 11:00 Uhr</b>
@@ -26,7 +27,6 @@ second_lead: >-
 
   Farideh Fotografie<br>Intzestraße 1<br>60314 Frankfurt am Main<br><br><br>
 
-   
 
   Bei unserem regelmäßigen Event geht es darum...
 
