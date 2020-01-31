@@ -79,9 +79,9 @@ second_lead: >-
   **03. März 2020, 19 Uhr**
 
 
-  Haus des Dialogs **<br>**\
+  Haus des Dialogs \
 
-  Hanauer Landstraße 154**<br>**\
+  Hanauer Landstraße 154 \
 
   60314 Frankfurt am Main
 
