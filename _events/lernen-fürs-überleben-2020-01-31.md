@@ -2,7 +2,7 @@
 title: Lernen fürs Überleben
 permalink: /events/lernen-fuers-ueberleben-am-3-maerz
 event_date: 03.03.2020
-image: /img/uploads/_newworknewlife_rucha_eventphoto_faridehfotografie.jpg
+image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 image_alt: '(c) faridehfotografie: Rucha Ambekar auf dem New Work : New Life Event'
 lead: >-
   Am 3. März stellen wir uns in einer spannenden Diskussionsrunde der Tatsache,
@@ -63,7 +63,7 @@ second_lead: >-
   ](http://remyndagentur.de/)und die [gkk DialogGroup](https://www.gkk.de/).
   Köstliches Catering gibt es wieder von [FoodVoJu.
   ](https://foodvoju.wordpress.com)
-meta_image: /img/uploads/_newworknewlife_rucha_eventphoto_faridehfotografie.jpg
+meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
   Lernen fürs Überleben? Am 3.3.2020, 19 Uhr sprechen freelancers & friends
   darüber, wie man als Organisation (und als Individuum) eine Kultur des Lernens
