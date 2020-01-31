@@ -46,6 +46,7 @@ second_lead: >-
   aktiv. Sei Teil dieser zukunftsbestimmenden Diskussion.**
 
 
+  **<br><br>**
 
 
   Mit dabei sind u.a.
@@ -61,6 +62,7 @@ second_lead: >-
   Main](https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt)
 
 
+  **<br><br>**
 
 
   **Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket für unsere neue
@@ -68,6 +70,7 @@ second_lead: >-
   Gästen.**
 
 
+  **<br><br>**
 
 
   ## **Lernen fürs Überleben** 
@@ -76,15 +79,14 @@ second_lead: >-
   **03. März 2020, 19 Uhr**
 
 
-  Haus des Dialogs 
+  Haus des Dialogs **<br>**\
 
-
-  Hanauer Landstraße 154
-
+  Hanauer Landstraße 154**<br>**\
 
   60314 Frankfurt am Main
 
 
+  **<br>**
 
 
   Unsere Partner bei dieser Veranstaltung sind [re:mynd
