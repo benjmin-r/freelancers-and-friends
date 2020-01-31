@@ -1,9 +1,6 @@
 ---
 title: Lernen fürs Überleben
-permalink: >-
-  /events/lernen-fuers-ueberleben-am-3-maerzWie wollen wir in Zukunft leben und
-  arbeiten? Am 27. 11.2019, 19 Uhr haben freelancers & friends eine rege
-  Diskussion erlebt.
+permalink: /events/lernen-fuers-ueberleben-am-3-maerz
 event_date: 03.03.2020
 image: /img/uploads/_newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 image_alt: '(c) faridehfotografie: Rucha Ambekar auf dem New Work : New Life Event'
