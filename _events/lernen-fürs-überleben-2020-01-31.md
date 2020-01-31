@@ -31,33 +31,27 @@ second_lead: >-
   Main](https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt)
 
 
-  \
 
-  Sei Teil dieser zukunftsbestimmenden Diskussion.\
 
-  \
+  Sei Teil dieser zukunftsbestimmenden Diskussion.
+
 
   **Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket für unsere neue
   Veranstaltungsreihe. Wir freuen uns auf ein Gespräch mit Dir und unseren
-  Gästen - bei Getränken und köstlichen Snacks!**\
+  Gästen - bei Getränken und köstlichen Snacks!**
 
-  \
 
-  \
+  **Lernen fürs Überleben**
 
-  **Lernen fürs Überleben**\
+  **03. März 2020, 19 Uhr**
 
-  **03. März 2020, 19 Uhr**\
 
-  \
+  Haus des Dialogs
 
-  Wir sind zu Gast im Haus des Dialogs\
+  Hanauer Landstraße 154
 
-  Hanauer Landstraße 154\
+  60314 Frankfurt am Main
 
-  60314 Frankfurt am Main\
-
-  \
 
   Unsere Partner bei dieser Veranstaltung sind [re:mynd
   ](http://remyndagentur.de/)und die [gkk DialogGroup](https://www.gkk.de/).
