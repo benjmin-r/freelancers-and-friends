@@ -65,6 +65,21 @@ second_lead: >-
   **<br><br>**
 
 
+  **Agenda**
+
+
+  19:00 Ankommen, Netzwerken & Willkommen
+
+
+  19:30 - 20:30 Moderierte Gesprächsrunde mit Panelteilnehmer*innen
+
+
+  20:30 - 21:00 Netzwerken
+
+
+  <br><br>
+
+
   **Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket für unsere neue
   Veranstaltungsreihe. Wir freuen uns auf ein Gespräch mit Dir und unseren
   Gästen.**
