@@ -3,22 +3,52 @@ title: Lernen fürs Überleben
 permalink: /events/lernen-fuers-ueberleben-am-3-maerz
 event_date: 03.03.2020
 image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
-image_alt: '(c) faridehfotografie: Rucha Ambekar auf dem New Work : New Life Event'
+image_alt: '(c) faridehfotografie: Rucha Ambekar auf dem "New Work: New Life?"-Event'
 lead: >-
-  Am 3. März stellen wir uns in einer spannenden Diskussionsrunde der Tatsache,
-  dass lebenslanges Lernen die Voraussetzung dafür ist, langfristig relevant zu
-  bleiben. Als Individuum und als Unternehmen. 
+  Lebenslanges Lernen ist die Voraussetzung dafür, langfristig relevant zu
+  bleiben. Als Individuum und als Unternehmen. Die vielleicht größte
+  Herausforderung dabei: Eine Kultur zu schaffen, die Lernprozesse fördert. Wie
+  meistern Organisationen diese Aufgabe?
 
 
-  Die vielleicht größte Herausforderung dabei: Eine Kultur zu schaffen, die
-  Lernprozesse fördert.
+  Das diskutieren wir am 3. März 2020 um 19 Uhr innerhalb einer lockeren
+  Gesprächsrunde mit spannenden Gästen. Bist Du dabei?
 cta: Ticket kaufen
 cta_url: 'http://bit.ly/lernen-fuers-ueberleben-anmeldung'
-second_title: >-
-  Wie meistern Organisationen diese Aufgabe? Welche Rolle spielen
-  Freiberufler*innen dabei?
+second_title: Wie funktioniert Weiterentwicklung im Informationszeitalter?
 second_lead: >-
-  Gäste unserer Paneldiskussion sind unter anderem: 
+  Das Bestreben durch ständiges Lernen, am Markt zu bestehen, gab es auch schon
+  zu Zeiten der Industrialisierung. Fortbildungen etwa sind nie aus der Mode
+  gekommen. Doch die Digitale Revolution hat das Tempo aller Veränderungen
+  deutlich beschleunigt. Zum Verbesserungsvorschlagswesen und Wissensmanagement
+  haben sich sukzessive neue Konzepte und Werkzeuge gesellt.
+
+
+  Interne soziale Netzwerke erleichtern abteilungsübergreifenden
+  Wissensaustausch. Innovationsexperten motivieren dazu, über sich
+  hinauszuwachsen. E-Learning ermöglicht Weiterbildung auf einen Klick. Faktisch
+  bleiben dem durchschnittlichen Wissensarbeiter aber gerade einmal fünf Minuten
+  am Tag fürs Lernen.
+
+
+  Viele Unternehmen kaufen fehlende Fachkenntnisse daher extern ein: Es werden
+  flugs neue Mitarbeiter eingestellt, Freelancer gebucht oder gleich ganze
+  Start-ups geschluckt.
+
+
+  Macht das Sinn? Welche Optionen haben Organisationen heutzutage? Wie passen
+  Querdenker in abgerundete Prozesse? Was geschieht mit Mitarbeitern, die am
+  Ende der Hierarchie stehen? Lernen wir eigentlich für uns selbst oder für die
+  Anderen?
+
+
+  **Ein Pa­ra­dig­men­wech­sel findet statt und nur wer mitredet, gestaltet ihn
+  aktiv. Sei Teil dieser zukunftsbestimmenden Diskussion.**
+
+
+
+
+  Mit dabei sind u.a.
 
 
   Fabian Annich,[TalentZ](https://talentz.de)
@@ -33,24 +63,28 @@ second_lead: >-
 
 
 
-  Sei Teil dieser zukunftsbestimmenden Diskussion.
-
-
   **Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket für unsere neue
   Veranstaltungsreihe. Wir freuen uns auf ein Gespräch mit Dir und unseren
-  Gästen - bei Getränken und köstlichen Snacks!**
+  Gästen.**
 
 
-  **Lernen fürs Überleben**
+
+
+  ## **Lernen fürs Überleben** 
+
 
   **03. März 2020, 19 Uhr**
 
 
-  Haus des Dialogs
+  Haus des Dialogs 
+
 
   Hanauer Landstraße 154
 
+
   60314 Frankfurt am Main
+
+
 
 
   Unsere Partner bei dieser Veranstaltung sind [re:mynd
