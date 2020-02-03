@@ -126,6 +126,13 @@ guests_speakers:
     name: Inge Leibmann
     url: 'https://www.gkk.de/'
     url_text: gkk DialogGroup
+agenda:
+  - description: 'Ankommen, Netzwerken & Willkommen'
+    time: 19 Uhr
+  - description: Moderierte Gesprächsrunde mit Panelteilnehmer*innen
+    time: '19:30 Uhr'
+  - description: Netzwerken
+    time: '20:30 Uhr'
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
   Lernen fürs Überleben? Am 3.3.2020, 19 Uhr sprechen freelancers & friends
