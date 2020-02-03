@@ -85,6 +85,20 @@ layout: home
 </section>
 {% endif %}
 
+{% if page.cta2 %}
+<section id="variant-cta-5" class="vim" vbp="CTA" vbr="CTA with One Liner">
+     <section class="bg-primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h3 class="mb0 inline-block p32 p0-xs">{{ page.cta2 }}</h3>
+                    <a class="btn btn-lg btn-white mb8 mt-xs-24" href="{{ page.cta2_button_url }}">{{ page.cta2_button_text }}</a>
+                </div>
+            </div>
+        </div>
+</section
+{% endif %}
+
 <section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70">
     <ul class="slides">
         {% for item in page.slider_images %}

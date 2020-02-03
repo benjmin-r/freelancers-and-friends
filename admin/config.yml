@@ -49,6 +49,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Time", name: "time", widget: "string"}
           - { label: "Description", name: "description", widget: "string" }
+      - { label: "CTA 2", name: "cta2", widget: "string", required: false }
+      - { label: "CTA 2 Button Text", name: "cta2_button_text", widget: "string", required: false}
+      - { label: "CTA 2 Button URL", name: "cta2_button_url", widget: "string", required: false }
       - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
       - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
       - label: "Meta: Layout"
