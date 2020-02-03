@@ -49,45 +49,7 @@ second_lead: >-
   **<br><br>**
 
 
-  Mit dabei sind u.a.
-
-
-  Fabian Annich,[TalentZ](https://talentz.de)
-
-
-  Inge Leibmann,[gkk DialogGroup](https://www.gkk.de/)
-
-
-  Dr. Sanaz Moradi Karkaj,[Verwaltungsgericht Frankfurt am
-  Main](https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt)
-
-
-  **<br><br>**
-
-
-  **Agenda**
-
-
-  19:00 Ankommen, Netzwerken & Willkommen
-
-
-  19:30 - 20:30 Moderierte Gesprächsrunde mit Panelteilnehmer*innen
-
-
-  20:30 - 21:00 Netzwerken
-
-
-  <br><br>
-
-
-  **Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket für unsere neue
-  Veranstaltungsreihe. Wir freuen uns auf ein Gespräch mit Dir und unseren
-  Gästen.**
-
-
-  **<br><br>**
-
-  ### **Lernen fürs Überleben** 
+  ### **Lernen fürs Überleben**
 
 
   **03. März 2020, 19 Uhr**
