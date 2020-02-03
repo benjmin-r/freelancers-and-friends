@@ -133,11 +133,8 @@ agenda:
     time: '19:30 Uhr'
   - description: Netzwerken
     time: '20:30 Uhr'
-cta2: >-
-  Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket für unsere neue
-  Veranstaltungsreihe. Wir freuen uns auf ein Gespräch mit Dir und unseren
-  Gästen.
-cta2_button_text: Pionier-Ticket
+cta2: Schnapp Dir bis zum 14. Februar 2020 ein Pionier-Ticket!
+cta2_button_text: Her mit dem Pionier-Ticket
 cta2_button_url: 'http://bit.ly/lernen-fuers-ueberleben-anmeldung'
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
