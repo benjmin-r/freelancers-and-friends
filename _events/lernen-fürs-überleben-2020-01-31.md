@@ -117,6 +117,9 @@ guests_speakers:
     name: Fabian Annich
     url: 'https://talentz.de/'
     url_text: TalentZ
+  - name: Dr. Sanaz Moradi Karkaj
+    url: 'https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt'
+    url_text: Verwaltungsgericht Frankfurt am Main
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
   Lernen fürs Überleben? Am 3.3.2020, 19 Uhr sprechen freelancers & friends
