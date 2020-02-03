@@ -42,6 +42,13 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "URL", name: "url", widget: "string"}
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Alt text", name: "image_alt", widget: "string", required: false }
+      - label: "Agenda"
+        label_singular: "agenda"
+        name: "agenda"
+        widget: "list"
+        fields:
+          - { label: "Time", name: "time", widget: "string"}
+          - { label: "Description", name: "description", widget: "string" }
       - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
       - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
       - label: "Meta: Layout"

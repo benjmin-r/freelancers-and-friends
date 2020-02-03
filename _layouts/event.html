@@ -62,6 +62,29 @@ layout: home
 </section>
 {% endif %}
 
+
+{% if page.agenda %}
+<section>
+    <div class="container">
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
+                <h3>Agenda</h3>
+            </div>
+        </div>
+        <div class="row">
+        {% for item in page.agenda %}
+            <div class="col-sm-4 text-center">
+                <div class="feature cast-shadow-light bordered">
+                    <h4>{{ item.time }}</h4>
+                    <p>{{ item.description }}</p>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
+
 <section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70">
     <ul class="slides">
         {% for item in page.slider_images %}
