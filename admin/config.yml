@@ -31,6 +31,17 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Image", name: "image", widget: "image"}
           - { label: "Alt text", name: "image_alt", widget: "string"}
+      - label: "Guests / Speakers"
+        label_singular: "guest_speaker"
+        name: "guests_speakers"
+        widget: "list"
+        fields:
+          - { label: "Name", name: "name", widget: "string"}
+          - { label: "Description", name: "description", widget: "string", required: false }
+          - { label: "URL text", name: "url_text", widget: "string"}
+          - { label: "URL", name: "url", widget: "string"}
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Alt text", name: "image_alt", widget: "string", required: false }
       - { label: "Meta: Social Image", name: "meta_image", widget: "image", hint: "Siehe https://de.ryte.com/magazine/open-graph-tags für beste Dimensionen" }
       - { label: "Meta: Social description", name: "meta_description", widget: "markdown", hint: "" }
       - label: "Meta: Layout"

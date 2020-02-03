@@ -31,6 +31,37 @@ layout: home
     </div>
 </section>
 
+
+{% if page.guests_speakers %}
+<section>
+    <div class="container">
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
+                <h3>Mit dabei sind</h3>
+            </div>
+        </div>
+        <div class="row">
+        {% for guest in page.guests_speakers %}
+            <div class="col-sm-4 text-center">
+                <div class="feature boxed cast-shadow-light">
+                    {% if guest.image %}
+                      <img alt="{{ guest.image_alt }}" class="image-small inline-block mb24" src="{{ guest.image }}">
+                    {% endif %}
+                    <h4>{{ guest.name }}</h4>
+                    <p>{{ guest.description }}</p>
+                    {% if guest.url %}
+                    <span>
+                      <strong><a href="{{ guest.url }}">{{ guest.url_text }}</a></strong>
+                    </span>
+                    {% endif %}
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
+
 <section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70">
     <ul class="slides">
         {% for item in page.slider_images %}
