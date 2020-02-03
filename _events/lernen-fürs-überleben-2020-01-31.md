@@ -87,7 +87,6 @@ second_lead: >-
 
   **<br><br>**
 
-
   ### **Lernen fürs Überleben** 
 
 
