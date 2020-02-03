@@ -108,6 +108,15 @@ second_lead: >-
   ](http://remyndagentur.de/)und die [gkk DialogGroup](https://www.gkk.de/).
   Köstliches Catering gibt es wieder von [FoodVoJu.
   ](https://foodvoju.wordpress.com)
+guests_speakers:
+  - description: >-
+      Fabian ist Gründer von TalentZ und wurde vom Magain Business Punk als
+      einer der "Founder to watch for 2020" bezeichnet.
+    image: /img/uploads/fabian-annich.jpg
+    image_alt: Fabian Annich
+    name: Fabian Annich
+    url: 'https://talentz.de/'
+    url_text: TalentZ
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
   Lernen fürs Überleben? Am 3.3.2020, 19 Uhr sprechen freelancers & friends
