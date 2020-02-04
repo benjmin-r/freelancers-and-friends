@@ -71,7 +71,7 @@ second_lead: >-
   ](https://foodvoju.wordpress.com)
 guests_speakers:
   - description: >-
-      Fabian ist Gründer von TalentZ und wurde vom Magain Business Punk als
+      Fabian ist Gründer von TalentZ und wurde vom Magazin Business Punk als
       einer der "Founder to watch for 2020" bezeichnet.
     image: /img/uploads/fabian-400x400-sw.jpg
     image_alt: Fabian Annich
