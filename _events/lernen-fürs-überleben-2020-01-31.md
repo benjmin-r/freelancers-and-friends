@@ -78,7 +78,12 @@ guests_speakers:
     name: Fabian Annich
     url: 'https://talentz.de/'
     url_text: TalentZ
-  - name: Dr. Sanaz Moradi Karkaj
+  - description: >-
+      Sanaz ist Richterin und Pressesprecherin des Verwaltungsgerichts Frankfurt
+      am Main.
+    image: /img/uploads/sanaz-400x400.jpg
+    image_alt: Dr. Sanaz Moradi Karkaj
+    name: Dr. Sanaz Moradi Karkaj
     url: 'https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt'
     url_text: Verwaltungsgericht Frankfurt am Main
   - description: Inge ist Personalentwicklerin bei der gkk DialogGroup in Frankfurt.
