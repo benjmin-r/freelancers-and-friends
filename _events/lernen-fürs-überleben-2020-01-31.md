@@ -73,7 +73,7 @@ guests_speakers:
   - description: >-
       Fabian ist Gründer von TalentZ und wurde vom Magain Business Punk als
       einer der "Founder to watch for 2020" bezeichnet.
-    image: /img/uploads/fabian-annich.jpg
+    image: /img/uploads/fabian-400x400-sw.jpg
     image_alt: Fabian Annich
     name: Fabian Annich
     url: 'https://talentz.de/'
@@ -81,7 +81,7 @@ guests_speakers:
   - description: >-
       Sanaz ist Richterin und Pressesprecherin des Verwaltungsgerichts Frankfurt
       am Main.
-    image: /img/uploads/sanaz-400x400.jpg
+    image: /img/uploads/sanaz-400x400-sw.jpg
     image_alt: Dr. Sanaz Moradi Karkaj
     name: Dr. Sanaz Moradi Karkaj
     url: 'https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt'
