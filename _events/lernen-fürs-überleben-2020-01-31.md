@@ -78,6 +78,12 @@ guests_speakers:
     name: Fabian Annich
     url: 'https://talentz.de/'
     url_text: TalentZ
+  - description: Inge ist Personalentwicklerin bei der gkk DialogGroup in Frankfurt.
+    image: /img/uploads/Inge Leibman_300x300.jpg
+    image_alt: Inge Leibmann
+    name: Inge Leibmann
+    url: 'https://www.gkk.de/'
+    url_text: gkk DialogGroup
   - description: >-
       Sanaz ist Richterin und Pressesprecherin des Verwaltungsgerichts Frankfurt
       am Main.
@@ -86,12 +92,6 @@ guests_speakers:
     name: Dr. Sanaz Moradi Karkaj
     url: 'https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt'
     url_text: Verwaltungsgericht Frankfurt am Main
-  - description: Inge ist Personalentwicklerin bei der gkk DialogGroup in Frankfurt.
-    image: /img/uploads/Inge Leibman_300x300.jpg
-    image_alt: Inge Leibmann
-    name: Inge Leibmann
-    url: 'https://www.gkk.de/'
-    url_text: gkk DialogGroup
 agenda:
   - description: 'Ankommen, Netzwerken & Willkommen'
     time: 19 Uhr
