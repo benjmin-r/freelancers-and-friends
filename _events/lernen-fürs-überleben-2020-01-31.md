@@ -104,9 +104,9 @@ cta2_button_text: Her mit dem Pionier-Ticket
 cta2_button_url: 'http://bit.ly/lernen-fuers-ueberleben-anmeldung'
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
-  Lernen fürs Überleben? Am 3.3.2020, 19 Uhr sprechen freelancers & friends
-  darüber, wie man als Organisation (und als Individuum) eine Kultur des Lernens
-  etabliert.
+  Lernen fürs Überleben: Am 3.3.2020 sprechen wir darüber, wie man als
+  Organisation (und als Individuum) eine Kultur des Lernens etabliert. Bist Du
+  dabei?
 layout: event
 meta_footercolor: white
 ---
