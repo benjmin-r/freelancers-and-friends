@@ -67,8 +67,11 @@ second_lead: >-
 
   Unsere Partner bei dieser Veranstaltung sind [re:mynd
   ](http://remyndagentur.de/)und die [gkk DialogGroup](https://www.gkk.de/).
-  Köstliches Catering gibt es wieder von [FoodVoJu.
-  ](https://foodvoju.wordpress.com)
+  Köstliches Catering gibt es wieder von
+  [FoodVoJu.](https://foodvoju.wordpress.com) Und als besondere Ergänzung gibt
+  es echte österreichische Topfenknödel mit Schmäh von Isa Stirm, alias
+  [ösa](https://www.facebook.com/pg/oesabella/), Botschafterin für
+  österreichische Lebenskultur.
 guests_speakers:
   - description: >-
       Fabian ist Gründer von TalentZ und wurde vom Magazin Business Punk als
