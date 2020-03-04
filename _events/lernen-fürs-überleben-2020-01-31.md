@@ -13,8 +13,20 @@ lead: >-
 
   Das diskutieren wir am 3. März 2020 um 19 Uhr innerhalb einer lockeren
   Gesprächsrunde mit spannenden Gästen. Bist Du dabei?
-cta: Ticket kaufen
-cta_url: 'http://bit.ly/lernen-fuers-ueberleben-anmeldung'
+
+
+
+
+  Am 3. März 2020 trafen wir uns, um herauszufinden:
+
+
+  Wie funktioniert Weiterentwicklung im Informationszeitalter?
+
+
+  Du willst das nächste Event nicht verpassen? Dann melde dich für unseren
+  Newsletter an.
+cta: Her mit dem Newsletter!
+cta_url: 'http://eepurl.com/gdo-Yf'
 second_title: Wie funktioniert Weiterentwicklung im Informationszeitalter?
 second_lead: >-
   Das Bestreben durch ständiges Lernen, am Markt zu bestehen, gab es auch schon
@@ -43,35 +55,7 @@ second_lead: >-
 
 
   **Ein Pa­ra­dig­men­wech­sel findet statt und nur wer mitredet, gestaltet ihn
-  aktiv. Sei Teil dieser zukunftsbestimmenden Diskussion.**
-
-
-  **<br><br>**
-
-
-  ### **Lernen fürs Überleben**
-
-
-  **03. März 2020, 19 Uhr**
-
-
-  Haus des Dialogs \
-
-  Hanauer Landstraße 154 \
-
-  60314 Frankfurt am Main
-
-
-  **<br>**
-
-
-  Unsere Partner bei dieser Veranstaltung sind [re:mynd
-  ](http://remyndagentur.de/)und die [gkk DialogGroup](https://www.gkk.de/).
-  Köstliches Catering gibt es wieder von
-  [FoodVoJu.](https://foodvoju.wordpress.com) Und als besondere Ergänzung gibt
-  es echte österreichische Topfenknödel mit Schmäh von Isa Stirm, alias
-  [ösa](https://www.facebook.com/pg/oesabella/), Botschafterin für
-  österreichische Lebenskultur.
+  aktiv. Teil einer aufschlussreichen Diskussion waren unsere Gäste:**
 guests_speakers:
   - description: >-
       Fabian ist Gründer von TalentZ und wurde vom Magazin Business Punk als
@@ -95,22 +79,14 @@ guests_speakers:
     name: Dr. Sanaz Moradi Karkaj
     url: 'https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt'
     url_text: Verwaltungsgericht Frankfurt am Main
-agenda:
-  - description: 'Ankommen, Netzwerken & Willkommen'
-    time: 19 Uhr
-  - description: Moderierte Gesprächsrunde mit Panelteilnehmer*innen
-    time: '19:30 Uhr'
-  - description: Netzwerken
-    time: '20:30 Uhr'
-cta2: Bist Du dabei?
-cta2_button_text: Her mit dem Ticket!
-cta2_button_url: 'http://bit.ly/lernen-fuers-ueberleben-anmeldung'
+agenda: []
+cta2: ''
+cta2_button_text: ''
+cta2_button_url: ''
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
-  Lernen fürs Überleben: Am 3.3.2020 sprechen wir darüber, wie man als
-  Organisation (und als Individuum) eine Kultur des Lernens etabliert. Bist Du
-  dabei?
+  Lernen fürs Überleben: Am 3.3.2020 sprachen wir darüber, wie man als
+  Organisation (und als Individuum) eine Kultur des Lernens etabliert.
 layout: event
 meta_footercolor: white
 ---
-
