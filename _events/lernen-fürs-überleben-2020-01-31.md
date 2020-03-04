@@ -76,9 +76,9 @@ agenda:
     description: Moderierte Gesprächsrunde mit Panelteilnehmer*innen
   - time: '20:30 - 21:00'
     description: Netzwerken
-cta2: ''
-cta2_button_text: ''
-cta2_button_url: ''
+cta2: Ich will das nächste Event nicht verpassen.
+cta2_button_text: Her mit dem Newsletter!
+cta2_button_url: 'http://eepurl.com/gdo-Yf'
 meta_image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 meta_description: >-
   Lernen fürs Überleben: Am 3.3.2020 sprachen wir darüber, wie man als
