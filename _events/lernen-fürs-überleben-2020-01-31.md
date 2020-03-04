@@ -6,18 +6,8 @@ image: /img/uploads/newworknewlife_rucha_eventphoto_faridehfotografie.jpg
 image_alt: '(c) faridehfotografie: Rucha Ambekar auf dem "New Work: New Life?"-Event'
 lead: >-
   Lebenslanges Lernen ist die Voraussetzung dafür, langfristig relevant zu
-  bleiben. Als Individuum und als Unternehmen. Die vielleicht größte
-  Herausforderung dabei: Eine Kultur zu schaffen, die Lernprozesse fördert. Wie
-  meistern Organisationen diese Aufgabe?
-
-
-  Das diskutieren wir am 3. März 2020 um 19 Uhr innerhalb einer lockeren
-  Gesprächsrunde mit spannenden Gästen. Bist Du dabei?
-
-
-
-
-  Am 3. März 2020 trafen wir uns, um herauszufinden:
+  bleiben. Als Individuum und als Unternehmen. Am 3. März 2020 trafen wir uns
+  daher, um herauszufinden:
 
 
   Wie funktioniert Weiterentwicklung im Informationszeitalter?
