@@ -69,7 +69,13 @@ guests_speakers:
     name: Dr. Sanaz Moradi Karkaj
     url: 'https://verwaltungsgerichtsbarkeit.hessen.de/VG-Frankfurt'
     url_text: Verwaltungsgericht Frankfurt am Main
-agenda: []
+agenda:
+  - time: '19:00'
+    description: 'Ankommen, Netzwerken & Willkommen'
+  - time: '19:30 - 20:30 '
+    description: Moderierte Gesprächsrunde mit Panelteilnehmer*innen
+  - time: '20:30 - 21:00'
+    description: Netzwerken
 cta2: ''
 cta2_button_text: ''
 cta2_button_url: ''
