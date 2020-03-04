@@ -45,7 +45,7 @@ second_lead: >-
 
 
   **Ein Pa­ra­dig­men­wech­sel findet statt und nur wer mitredet, gestaltet ihn
-  aktiv. Teil einer aufschlussreichen Diskussion waren unsere Gäste:**
+  aktiv. Teil einer aufschlussreichen Diskussion waren unsere Gäste.**
 guests_speakers:
   - description: >-
       Fabian ist Gründer von TalentZ und wurde vom Magazin Business Punk als
