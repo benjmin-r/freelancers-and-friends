@@ -1,25 +1,26 @@
 ---
 title: freelancers & friends - Frühstück
 permalink: /events/fruehstueck
-event_date: 16.01.2020
+event_date: 26.03.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
-image_alt: freelancers & friends - Frühstück im Mindspace
+image_alt: freelancers & friends - Frühstück bei wework
 lead: >-
-  Am 16. Januar 2020 trafen wir uns erneut, um unser Netzwerk und unseren
-  Horizont zu erweitern. Unsere Gastgeberin war diesmal [Farideh
-  Diehl](http://farideh.de).
+  Am 26. März 2020 treffen wir uns erneut, um unser Netzwerk und unseren
+  Horizont zu erweitern - bei
+  [wework](https://www.wework.com/buildings/taunusanlage-8--frankfurt) in der
+  Taunusanlage.
 
 
-  Farideh arbeitet seit 1990 als freie People-Fotografin und gibt  innerhalb 
-  [unseres gemeinsamen
-  Fotoprojektes](https://www.instagram.com/freelancers_and_friends/) Freelancern
-  aus Frankfurt und der Umgebung ein Gesicht. 
+  Unser Gast wird diesmal [Benjamin Reitzammer](https://cto.coffee) sein.
+  Benjamin ist freiberuflicher CTO, Feminist und Organisator der
+  [\#humansconf](https://www.humansconf.org): Im Mittelpunkt dieser Open Space
+  Konferenz steht der Mensch - denn letztendlich entscheiden wir darüber, ob
+  technologische Produkte eine Zukunft haben oder nicht.
 
 
-  Du willst das nächste Event nicht verpassen? Dann melde dich für unseren
-  Newsletter an.
-cta: Her mit dem Newsletter!
-cta_url: 'http://eepurl.com/gdo-Yf'
+  Bist Du dabei?
+cta: Her mit dem Ticket!
+cta_url: 'http://bit.ly/fff-2020-maerz'
 second_title: Nahrung für Leib und Seele
 second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
@@ -40,8 +41,6 @@ second_lead: >-
   **Tee, Kaffee und frische Brötchen mit Belag nach Wahl bekommst Du zum
   Selbstkostenpreis.**
 slider_images:
-  - image: /img/uploads/f-f_faridehdiehl.jpeg
-    image_alt: Unsere Gastgeberin Farideh Diehl
   - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
     image_alt: freelancers & friends - Frühstück im Mindspace
   - image: /img/uploads/freelancers-and-friends-graphic-recording-rucha-ambekar.jpg
@@ -53,4 +52,3 @@ meta_description: >-
 layout: event
 meta_footercolor: white
 ---
-
