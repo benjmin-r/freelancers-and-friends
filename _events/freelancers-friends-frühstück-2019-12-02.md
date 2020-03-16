@@ -3,12 +3,10 @@ title: freelancers & friends - Frühstück
 permalink: /events/fruehstueck
 event_date: 26.03.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
-image_alt: freelancers & friends - Frühstück bei wework
+image_alt: 'freelancers & friends - Frühstück: Virtuell'
 lead: >-
   Am 26. März 2020 treffen wir uns erneut, um unser Netzwerk und unseren
-  Horizont zu erweitern - bei
-  [wework](https://www.wework.com/buildings/taunusanlage-8--frankfurt) in der
-  Taunusanlage.
+  Horizont zu erweitern - diesmal rein virtuell.
 
 
   Unser Gast wird diesmal [Benjamin Reitzammer](https://cto.coffee) sein.
