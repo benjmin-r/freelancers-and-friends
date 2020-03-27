@@ -3,22 +3,17 @@ title: freelancers & friends - Frühstück
 permalink: /events/fruehstueck
 event_date: 26.03.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
-image_alt: 'freelancers & friends - Frühstück: Virtuell'
+image_alt: freelancers & friends - Frühstück
 lead: >-
-  Am 26. März 2020 treffen wir uns erneut, um unser Netzwerk und unseren
-  Horizont zu erweitern - diesmal rein virtuell.
+  Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
+  oder einer anderen spannenden Arbeitsumgebung. Am 26. März 2020 trafen wir uns
+  zum ersten Mal rein virtuell. Besondere Umstände erfordern eben kreative
+  Maßnahmen.
 
 
-  Unser Gast wird diesmal [Benjamin Reitzammer](https://cto.coffee) sein.
-  Benjamin ist freiberuflicher CTO, Feminist und Organisator der
-  [\#humansconf](https://www.humansconf.org): Im Mittelpunkt dieser Open Space
-  Konferenz steht der Mensch - denn letztendlich entscheiden wir darüber, ob
-  technologische Produkte eine Zukunft haben oder nicht.
-
-
-  Bist Du dabei?
-cta: Her mit dem Ticket!
-cta_url: 'http://bit.ly/fff-2020-maerz'
+  Du willst beim nächsten Mal dabei sein? Trag Dich in unseren Verteiler ein.
+cta: Her mit dem Newsletter!
+cta_url: 'http://eepurl.com/gdo-Yf'
 second_title: Nahrung für Leib und Seele
 second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
