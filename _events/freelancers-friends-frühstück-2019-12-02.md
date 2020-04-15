@@ -7,8 +7,7 @@ image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
   oder einer anderen spannenden Arbeitsumgebung. Doch am 30. April 2020 treffen
-  wir uns um 09:30 erneut virtuell. Besondere Umstände erfordern eben kreative
-  Maßnahmen. 
+  wir uns um 09:30 erneut virtuell. 
 
 
   Unser Gast wird Kerstin Ruiner sein. Als IT-Consultant und Coach unterstützt sie Organisationen bei der digitalen Transformation und führt sie in Richtung „gutes neues Arbeiten“. Individuen hilft Kerstin dabei, ihre Potenziale zu entfalten.
