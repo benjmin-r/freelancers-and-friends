@@ -6,16 +6,14 @@ image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
-  oder einer anderen spannenden Arbeitsumgebung. Doch am 30. April 2020 treffen
-  wir uns um 09:30 erneut virtuell. 
+  oder einer anderen spannenden Arbeitsumgebung. Am 30. April 2020 trafen wir
+  uns allerdings schon zum zweiten Mal rein virtuell. Besondere Umstände
+  erfordern eben kreative Maßnahmen.
 
 
-  Unser Gast wird Kerstin Ruiner sein. Als IT-Consultant und Coach unterstützt sie Organisationen bei der digitalen Transformation und führt sie in Richtung „gutes neues Arbeiten“. Individuen hilft Kerstin dabei, ihre Potenziale zu entfalten.
-
-
-  Bist Du dabei?
-cta: Ich bin dabei!
-cta_url: https://bit.ly/fff-2020-april
+  Du willst beim nächsten Mal dabei sein? Trag Dich in unseren Verteiler ein.
+cta: Her mit dem Newsletter!
+cta_url: http://eepurl.com/gdo-Yf
 second_title: Nahrung für Leib und Seele
 second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
