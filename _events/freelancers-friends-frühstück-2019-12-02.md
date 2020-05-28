@@ -7,11 +7,11 @@ image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
   oder einer anderen spannenden Arbeitsumgebung. Am 18. Juni 2020 treffen wir
-  uns allerdings schon zum dritten Mal rein virtuell. Besondere Umstände
-  erfordern eben kreative Maßnahmen.
+  uns allerdings schon zum dritten Mal um 09:30 rein virtuell. Besondere
+  Umstände erfordern eben kreative Maßnahmen.
 
 
-  Unser Gast wird diesmal Katja Diehl alias She Drives Mobility sein. Katja kommt aus Hamburg und arbeitet unter She Drives Mobility als Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes, moderiert Events und Workshops. Und alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work.
+  Unser Gast wird diesmal Katja Diehl alias She Drives Mobility sein. Katja ist  Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes, moderiert Events und Workshops. Und alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work.
 cta: Her mit dem Ticket!
 cta_url: https://bit.ly/fff-2020-juni
 second_title: Nahrung für Leib und Seele
