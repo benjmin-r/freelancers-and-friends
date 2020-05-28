@@ -1,19 +1,19 @@
 ---
 title: freelancers & friends - Frühstück
 permalink: /events/fruehstueck
-event_date: 26.03.2020
+event_date: 18.06.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
-  oder einer anderen spannenden Arbeitsumgebung. Am 30. April 2020 trafen wir
-  uns allerdings schon zum zweiten Mal rein virtuell. Besondere Umstände
+  oder einer anderen spannenden Arbeitsumgebung. Am 18. Juni 2020 treffen wir
+  uns allerdings schon zum dritten Mal rein virtuell. Besondere Umstände
   erfordern eben kreative Maßnahmen.
 
 
-  Du willst beim nächsten Mal dabei sein? Trag Dich in unseren Verteiler ein.
-cta: Her mit dem Newsletter!
-cta_url: http://eepurl.com/gdo-Yf
+  Unser Gast wird diesmal Katja Diehl alias She Drives Mobility sein. Katja kommt aus Hamburg und arbeitet unter She Drives Mobility als Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes, moderiert Events und Workshops. Und alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work.
+cta: Her mit dem Ticket!
+cta_url: https://bit.ly/fff-2020-juni
 second_title: Nahrung für Leib und Seele
 second_lead: >-
   Bei unserem regelmäßigen Event geht es darum...
