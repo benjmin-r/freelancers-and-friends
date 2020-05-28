@@ -6,9 +6,8 @@ image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
-  oder einer anderen spannenden Arbeitsumgebung. Am 18. Juni 2020 treffen wir
-  uns allerdings schon zum dritten Mal um 09:30 rein virtuell. Besondere
-  Umstände erfordern eben kreative Maßnahmen.
+  oder einer anderen spannenden Arbeitsumgebung. Am **18. Juni 2020** treffen
+  wir uns allerdings schon zum dritten Mal um 09:30 rein virtuell. 
 
 
   Unser Gast wird diesmal [Katja Diehl alias She Drives Mobility](https://katja-diehl.de/) sein. Katja ist  Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes, moderiert Events und Workshops. Und alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work.
