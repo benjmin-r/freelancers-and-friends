@@ -25,8 +25,6 @@ second_lead: >-
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
 
 
-
-
   **<br>**
 
 
@@ -34,6 +32,9 @@ second_lead: >-
 
 
   Katja kommt aus Hamburg und arbeitet unter She Drives Mobility als Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes und moderiert Events und Workshops. Alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work. Aktuell hat Katja ein Livevideo-Format entwickelt. Die Videos finden sich auf ihrer [Vimeo-Seite.](https://vimeo.com/katjadiehl)
+
+
+  <br>
 slider_images:
   - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
     image_alt: freelancers & friends - Frühstück im Mindspace
