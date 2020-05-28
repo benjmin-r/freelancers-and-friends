@@ -11,7 +11,7 @@ lead: >-
   Umstände erfordern eben kreative Maßnahmen.
 
 
-  Unser Gast wird diesmal Katja Diehl alias She Drives Mobility sein. Katja ist  Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes, moderiert Events und Workshops. Und alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work.
+  Unser Gast wird diesmal [Katja Diehl alias She Drives Mobility](https://katja-diehl.de/) sein. Katja ist  Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes, moderiert Events und Workshops. Und alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work.
 cta: Her mit dem Ticket!
 cta_url: https://bit.ly/fff-2020-juni
 second_title: Nahrung für Leib und Seele
