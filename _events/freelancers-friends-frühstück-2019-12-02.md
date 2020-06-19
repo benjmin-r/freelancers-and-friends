@@ -7,8 +7,9 @@ image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
   oder einer anderen spannenden Arbeitsumgebung. Am 18. Juni 2020 trafen wir uns
-  allerdings zum wiederholten Mal rein virtuell. Besondere Umstände erfordern
-  eben kreative Maßnahmen.
+  allerdings [zum wiederholten Mal rein
+  virtuell](https://www.instagram.com/p/CBlJhdjoLuA/?utm_source=ig_web_copy_link).
+  Besondere Umstände erfordern eben kreative Maßnahmen.
 
 
   Du willst beim nächsten Mal dabei sein? Trag Dich in unseren Verteiler ein.
