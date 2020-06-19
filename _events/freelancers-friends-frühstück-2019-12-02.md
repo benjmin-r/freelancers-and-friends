@@ -13,8 +13,8 @@ lead: >-
 
   Du willst beim nächsten Mal dabei sein? Trag Dich in unseren Verteiler ein.
 cta: Her mit dem Newsletter!
-cta_url: https://bit.ly/fff-2020-juni
-second_title: http://eepurl.com/gdo-Yf
+cta_url: http://eepurl.com/gdo-Yf
+second_title: NAHRUNG FÜR LEIB UND SEELE
 second_lead: |-
   Bei unserem regelmäßigen Event geht es darum...
 
