@@ -6,38 +6,21 @@ image: /img/uploads/katja-diehl.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
-  oder einer anderen spannenden Arbeitsumgebung. Am **18. Juni 2020** treffen
-  wir uns allerdings schon zum dritten Mal um **09:30** rein virtuell. 
+  oder einer anderen spannenden Arbeitsumgebung. Am 18. Juni 2020 trafen wir uns
+  allerdings zum wiederholten Mal rein virtuell. Besondere Umstände erfordern
+  eben kreative Maßnahmen.
 
 
-  Unser Gast wird diesmal [Katja Diehl alias She Drives Mobility](https://katja-diehl.de/) sein.
-cta: Her mit dem Ticket!
+  Du willst beim nächsten Mal dabei sein? Trag Dich in unseren Verteiler ein.
+cta: Her mit dem Newsletter!
 cta_url: https://bit.ly/fff-2020-juni
-second_title: Nahrung für Leib und Seele mit She Drives Mobility
-second_lead: >-
+second_title: http://eepurl.com/gdo-Yf
+second_lead: |-
   Bei unserem regelmäßigen Event geht es darum...
 
-
   * \- mit Gleichgesinnten lecker zu frühstücken
-
   * \- neue Kontakte zu knüpfen
-
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
-
-
-  **<br>**
-
-
-  **<br>**
-
-
-  ## **She Drives Mobility**
-
-
-  Katja kommt aus Hamburg und arbeitet unter She Drives Mobility als Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität der Zukunft, Neuem Arbeiten und Diversität. Sie hält Keynotes und moderiert Events und Workshops. Alle 14 Tage hostet sie ihren Podcast zu Mobilitätswandel, Diversität und New Work. Aktuell hat Katja ein Livevideo-Format entwickelt. Die Videos finden sich auf ihrer [Vimeo-Seite.](https://vimeo.com/katjadiehl)
-
-
-  <br>
 slider_images:
   - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
     image_alt: freelancers & friends - Frühstück im Mindspace
