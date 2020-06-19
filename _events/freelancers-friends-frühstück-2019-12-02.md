@@ -5,7 +5,7 @@ event_date: 18.06.2020
 image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
-  Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
+  Üblicherweise findet unser Frühstück analog statt, in einem Co-Working-Space
   oder einer anderen spannenden Arbeitsumgebung. Am 18. Juni 2020 trafen wir uns
   allerdings [zum wiederholten Mal rein
   virtuell](https://www.instagram.com/p/CBlJhdjoLuA/?utm_source=ig_web_copy_link).
@@ -19,6 +19,7 @@ second_title: NAHRUNG FÜR LEIB UND SEELE
 second_lead: |-
   Bei unserem regelmäßigen Event geht es darum...
 
+  * \- einen neuen Co-Working-Space kennenzulernen
   * \- mit Gleichgesinnten lecker zu frühstücken
   * \- neue Kontakte zu knüpfen
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
