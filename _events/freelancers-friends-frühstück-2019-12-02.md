@@ -2,7 +2,7 @@
 title: freelancers & friends - Frühstück
 permalink: /events/fruehstueck
 event_date: 18.06.2020
-image: /img/uploads/katja-diehl.jpg
+image: /img/uploads/freelancers-and-friends-visitenkarten.jpg
 image_alt: freelancers & friends - Frühstück
 lead: >-
   Üblicherweise findet unser Frühstück analog statt, in einem Coworking-Space
