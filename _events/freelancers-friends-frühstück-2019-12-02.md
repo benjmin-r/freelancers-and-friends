@@ -21,6 +21,8 @@ second_lead: |-
   * \- mit Gleichgesinnten lecker zu frühstücken
   * \- neue Kontakte zu knüpfen
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
+
+  CFF´´
 slider_images:
   - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
     image_alt: freelancers & friends - Frühstück im Mindspace
