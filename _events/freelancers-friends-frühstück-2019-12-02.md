@@ -22,7 +22,9 @@ second_lead: |-
   * \- neue Kontakte zu knüpfen
   * \- einem kurzen (10 Minuten) Gastbeitrag zu lauschen
 
-  CFF´´
+  <br>
+
+  <br>
 slider_images:
   - image: /img/uploads/freelancers-and-friends-frühstück-gruppe-mindspace.jpg
     image_alt: freelancers & friends - Frühstück im Mindspace
